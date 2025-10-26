@@ -82,17 +82,8 @@ def main(n: int, out: str, chunksize: int, seed: Optional[int], locale: str, gzi
 
     print(f"Zapisano {written:,} rekordów do pliku: {out}")
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Generator danych syntetycznych dla SVM (PL).")
-    parser.add_argument("--n", type=int, default=5_000_000, help="Liczba rekordów do wygenerowania (domyślnie 5,000,000).")
-    parser.add_argument("--out", type=str, default="dane_svm_5mln.csv", help="Ścieżka wyjściowa do pliku CSV.")
-    parser.add_argument("--chunksize", type=int, default=250_000, help="Wielkość porcji generacji (domyślnie 250k).")
-    parser.add_argument("--seed", type=int, default=42, help="Ziarno RNG dla powtarzalności (domyślnie 42).")
-    parser.add_argument("--locale", type=str, default="pl_PL", help="Locale dla Faker (domyślnie pl_PL).")
-    parser.add_argument("--gzip", action="store_true", help="Jeśli podane, zapisze plik skompresowany .gz")
-
-    args = parser.parse_args()
-    try:
-        main(n=args.n, out=args.out, chunksize=args.chunksize, seed=args.seed, locale=args.locale, gzip=args.gzip)
-    except KeyboardInterrupt:
-        sys.exit("Przerwano przez użytkownika.")
+# Call main directly with desired arguments
+try:
+    main(n=5000000, out="dane_svm_5mln.csv", chunksize=250000, seed=42, locale="pl_PL", gzip=False)
+except KeyboardInterrupt:
+    sys.exit("Przerwano przez użytkownika.")
