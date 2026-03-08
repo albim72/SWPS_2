@@ -2,6 +2,9 @@ import numpy as np
 import tensorflow as tf
 from tensorflow.keras import layers, Model
 
+# -----------------------------
+# 1. Dane
+# -----------------------------
 X = np.array([
     [0.9, 0.8, 0.3, 0.2],
     [0.7, 0.6, 0.5, 0.4],
@@ -12,18 +15,54 @@ X = np.array([
 
 y = np.array([1, 1, 0, 1, 0], dtype=np.float32).reshape(-1, 1)
 
-inputs = layers.Input(shape=(4,))
-hidden = layers.Dense(8, activation="relu")(inputs)
-embedding = layers.Dense(2, activation=None, name="embedding")(hidden)
-outputs = layers.Dense(1, activation="sigmoid")(embedding)
+# -----------------------------
+# 2. Funkcja budująca model
+# -----------------------------
+def build_attractor_model(input_dim=4, hidden_dim=8, embedding_dim=2):
+    inputs = layers.Input(shape=(input_dim,), name="input_features")
+    
+    hidden = layers.Dense(hidden_dim, activation="relu", name="hidden_dense")(inputs)
+    
+    embedding = layers.Dense(
+        embedding_dim,
+        activation=None,
+        name="embedding"
+    )(hidden)
+    
+    outputs = layers.Dense(
+        1,
+        activation="sigmoid",
+        name="classifier_output"
+    )(embedding)
 
-model = Model(inputs=inputs, outputs=[outputs, embedding])
+    model = Model(
+        inputs=inputs,
+        outputs=[outputs, embedding],
+        name="AttractorEmbeddingModel"
+    )
+    return model
 
-# atraktor w przestrzeni embeddingu
+# -----------------------------
+# 3. Utworzenie modelu
+# -----------------------------
+model = build_attractor_model()
+
+# pokaż architekturę
+model.summary()
+
+# -----------------------------
+# 4. Atraktor w przestrzeni embeddingu
+# -----------------------------
 embedding_attractor = tf.constant([[1.0, 1.0]], dtype=tf.float32)
 
+# -----------------------------
+# 5. Optymalizator
+# -----------------------------
 optimizer = tf.keras.optimizers.Adam(learning_rate=0.01)
 
+# -----------------------------
+# 6. Pętla treningowa
+# -----------------------------
 for epoch in range(100):
     with tf.GradientTape() as tape:
         preds, emb = model(X, training=True)
@@ -49,6 +88,13 @@ for epoch in range(100):
             f"total={total_loss.numpy():.4f}"
         )
 
+# -----------------------------
+# 7. Predykcja końcowa
+# -----------------------------
 preds, emb = model(X, training=False)
-print("Predictions:\n", preds.numpy())
-print("Embeddings:\n", emb.numpy())
+
+print("\nPredictions:")
+print(preds.numpy())
+
+print("\nEmbeddings:")
+print(emb.numpy())
