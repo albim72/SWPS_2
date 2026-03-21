@@ -1,0 +1,42 @@
+{
+  "candidates": [
+    {
+      "name": "Anna",
+      "tech": 9,
+      "communication": 6,
+      "cost": 7,
+      "availability": 8,
+      "fit": 9
+    },
+    {
+      "name": "Bartek",
+      "tech": 7,
+      "communication": 9,
+      "cost": 5,
+      "availability": 9,
+      "fit": 8
+    },
+    {
+      "name": "Celina",
+      "tech": 8,
+      "communication": 7,
+      "cost": 6,
+      "availability": 6,
+      "fit": 10
+    },
+    {
+      "name": "Dawid",
+      "tech": 6,
+      "communication": 8,
+      "cost": 3,
+      "availability": 10,
+      "fit": 7
+    }
+  ],
+  "expert_ranking": [
+    "Celina",
+    "Anna",
+    "Bartek",
+    "Dawid"
+  ]
+}
