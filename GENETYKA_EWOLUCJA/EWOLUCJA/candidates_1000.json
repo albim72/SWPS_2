@@ -1,0 +1,8043 @@
+{
+    "candidates": [
+        {
+            "name": "pani Marika Truchan",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 3,
+            "fit": 6
+        },
+        {
+            "name": "pan Norbert Sierżant",
+            "tech": 7,
+            "communication": 6,
+            "cost": 9,
+            "availability": 7,
+            "fit": 1
+        },
+        {
+            "name": "Tymoteusz Giec",
+            "tech": 7,
+            "communication": 0,
+            "cost": 8,
+            "availability": 5,
+            "fit": 5
+        },
+        {
+            "name": "Emil Sudak",
+            "tech": 7,
+            "communication": 7,
+            "cost": 7,
+            "availability": 5,
+            "fit": 9
+        },
+        {
+            "name": "pan Łukasz Kluczek",
+            "tech": 3,
+            "communication": 7,
+            "cost": 8,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "Natasza Budzyń",
+            "tech": 7,
+            "communication": 3,
+            "cost": 6,
+            "availability": 10,
+            "fit": 5
+        },
+        {
+            "name": "Sylwia Smykla",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 2,
+            "fit": 0
+        },
+        {
+            "name": "Grzegorz Ciuba",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 9,
+            "fit": 4
+        },
+        {
+            "name": "Radosław Kotala",
+            "tech": 10,
+            "communication": 8,
+            "cost": 9,
+            "availability": 7,
+            "fit": 8
+        },
+        {
+            "name": "Fryderyk Tymczyszyn",
+            "tech": 3,
+            "communication": 1,
+            "cost": 10,
+            "availability": 0,
+            "fit": 9
+        },
+        {
+            "name": "Krystian Kukuczka",
+            "tech": 7,
+            "communication": 9,
+            "cost": 2,
+            "availability": 8,
+            "fit": 8
+        },
+        {
+            "name": "Aleks Szlachcic",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 2,
+            "fit": 6
+        },
+        {
+            "name": "Łukasz Gotfryd",
+            "tech": 7,
+            "communication": 10,
+            "cost": 6,
+            "availability": 6,
+            "fit": 4
+        },
+        {
+            "name": "pan Michał Windak",
+            "tech": 6,
+            "communication": 3,
+            "cost": 6,
+            "availability": 5,
+            "fit": 3
+        },
+        {
+            "name": "Kacper Nesterowicz",
+            "tech": 6,
+            "communication": 6,
+            "cost": 7,
+            "availability": 3,
+            "fit": 9
+        },
+        {
+            "name": "Krystian Knych",
+            "tech": 7,
+            "communication": 4,
+            "cost": 6,
+            "availability": 0,
+            "fit": 6
+        },
+        {
+            "name": "Krystyna Kopyść",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 7,
+            "fit": 8
+        },
+        {
+            "name": "Anita Cop",
+            "tech": 3,
+            "communication": 8,
+            "cost": 9,
+            "availability": 10,
+            "fit": 0
+        },
+        {
+            "name": "Ewa Capiga",
+            "tech": 4,
+            "communication": 8,
+            "cost": 10,
+            "availability": 7,
+            "fit": 3
+        },
+        {
+            "name": "Maksymilian Bzdęga",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 8,
+            "fit": 8
+        },
+        {
+            "name": "Apolonia Kajstura",
+            "tech": 7,
+            "communication": 6,
+            "cost": 10,
+            "availability": 1,
+            "fit": 5
+        },
+        {
+            "name": "Kacper Rembacz",
+            "tech": 7,
+            "communication": 9,
+            "cost": 3,
+            "availability": 6,
+            "fit": 8
+        },
+        {
+            "name": "Witold Nocek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 5,
+            "fit": 0
+        },
+        {
+            "name": "Krystian Stojak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 6,
+            "fit": 2
+        },
+        {
+            "name": "pan Bruno Płócienniczak",
+            "tech": 3,
+            "communication": 8,
+            "cost": 4,
+            "availability": 3,
+            "fit": 10
+        },
+        {
+            "name": "Anastazja Loska",
+            "tech": 7,
+            "communication": 10,
+            "cost": 10,
+            "availability": 1,
+            "fit": 10
+        },
+        {
+            "name": "Juliusz Gryciuk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 7,
+            "fit": 10
+        },
+        {
+            "name": "Sonia Fiedler",
+            "tech": 7,
+            "communication": 3,
+            "cost": 7,
+            "availability": 5,
+            "fit": 1
+        },
+        {
+            "name": "Szymon Paleń",
+            "tech": 7,
+            "communication": 7,
+            "cost": 6,
+            "availability": 10,
+            "fit": 10
+        },
+        {
+            "name": "pan Emil Soliwoda",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 0,
+            "fit": 0
+        },
+        {
+            "name": "Konstanty Morys",
+            "tech": 6,
+            "communication": 10,
+            "cost": 6,
+            "availability": 2,
+            "fit": 0
+        },
+        {
+            "name": "Mikołaj Surmiak",
+            "tech": 7,
+            "communication": 0,
+            "cost": 3,
+            "availability": 10,
+            "fit": 0
+        },
+        {
+            "name": "Iwo Kurzac",
+            "tech": 2,
+            "communication": 8,
+            "cost": 3,
+            "availability": 9,
+            "fit": 10
+        },
+        {
+            "name": "Nataniel Sierota",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 10,
+            "fit": 8
+        },
+        {
+            "name": "Norbert Jeka",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 0,
+            "fit": 5
+        },
+        {
+            "name": "Julianna Cieplucha",
+            "tech": 7,
+            "communication": 0,
+            "cost": 7,
+            "availability": 2,
+            "fit": 8
+        },
+        {
+            "name": "Anna Maria Wawrzynek",
+            "tech": 7,
+            "communication": 6,
+            "cost": 5,
+            "availability": 0,
+            "fit": 7
+        },
+        {
+            "name": "Artur Gałat",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 6,
+            "fit": 2
+        },
+        {
+            "name": "Adrianna Panicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 4,
+            "fit": 10
+        },
+        {
+            "name": "Kalina Szczepan",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 3,
+            "fit": 7
+        },
+        {
+            "name": "Kajetan Korzonek",
+            "tech": 9,
+            "communication": 8,
+            "cost": 2,
+            "availability": 4,
+            "fit": 1
+        },
+        {
+            "name": "pani Ewelina Wołoszyk",
+            "tech": 6,
+            "communication": 0,
+            "cost": 3,
+            "availability": 7,
+            "fit": 6
+        },
+        {
+            "name": "Julita Parzonka",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 9,
+            "fit": 6
+        },
+        {
+            "name": "pan Konrad Broncel",
+            "tech": 7,
+            "communication": 3,
+            "cost": 7,
+            "availability": 2,
+            "fit": 2
+        },
+        {
+            "name": "Józef Boduch",
+            "tech": 10,
+            "communication": 8,
+            "cost": 9,
+            "availability": 8,
+            "fit": 2
+        },
+        {
+            "name": "Filip Jenek",
+            "tech": 7,
+            "communication": 9,
+            "cost": 8,
+            "availability": 3,
+            "fit": 2
+        },
+        {
+            "name": "Ignacy Dynia",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 6,
+            "fit": 4
+        },
+        {
+            "name": "Liwia Koźlak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 7,
+            "fit": 7
+        },
+        {
+            "name": "Malwina Wojtera",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 8,
+            "fit": 0
+        },
+        {
+            "name": "pani Sonia Skoneczna",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 2,
+            "fit": 4
+        },
+        {
+            "name": "Natan Pietrasz",
+            "tech": 9,
+            "communication": 8,
+            "cost": 7,
+            "availability": 6,
+            "fit": 8
+        },
+        {
+            "name": "pani Marianna Odrzywołek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 6,
+            "fit": 10
+        },
+        {
+            "name": "pani Apolonia Ciężka",
+            "tech": 5,
+            "communication": 7,
+            "cost": 3,
+            "availability": 1,
+            "fit": 3
+        },
+        {
+            "name": "Damian Macias",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 8,
+            "fit": 2
+        },
+        {
+            "name": "Mikołaj Gajownik",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 9,
+            "fit": 10
+        },
+        {
+            "name": "Anastazja Kulus",
+            "tech": 7,
+            "communication": 6,
+            "cost": 6,
+            "availability": 8,
+            "fit": 9
+        },
+        {
+            "name": "Miłosz Matyjaszek",
+            "tech": 7,
+            "communication": 0,
+            "cost": 9,
+            "availability": 8,
+            "fit": 9
+        },
+        {
+            "name": "Patryk Loba",
+            "tech": 7,
+            "communication": 0,
+            "cost": 10,
+            "availability": 10,
+            "fit": 7
+        },
+        {
+            "name": "Tola Fierek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "pan Franciszek Młyńczyk",
+            "tech": 1,
+            "communication": 8,
+            "cost": 7,
+            "availability": 2,
+            "fit": 9
+        },
+        {
+            "name": "Rafał Łobacz",
+            "tech": 7,
+            "communication": 1,
+            "cost": 10,
+            "availability": 9,
+            "fit": 10
+        },
+        {
+            "name": "Leon Krzyszczak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 8,
+            "fit": 2
+        },
+        {
+            "name": "Jacek Teper",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 2,
+            "fit": 6
+        },
+        {
+            "name": "Kornelia Szpyra",
+            "tech": 7,
+            "communication": 9,
+            "cost": 5,
+            "availability": 7,
+            "fit": 7
+        },
+        {
+            "name": "pani Klara Perczak",
+            "tech": 0,
+            "communication": 10,
+            "cost": 8,
+            "availability": 5,
+            "fit": 7
+        },
+        {
+            "name": "Hubert Boba",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 8,
+            "fit": 9
+        },
+        {
+            "name": "Patryk Świątkiewicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 7,
+            "fit": 10
+        },
+        {
+            "name": "Sandra Szmajda",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 6,
+            "fit": 5
+        },
+        {
+            "name": "Nataniel Kukuczka",
+            "tech": 7,
+            "communication": 0,
+            "cost": 6,
+            "availability": 0,
+            "fit": 2
+        },
+        {
+            "name": "Ida Graj",
+            "tech": 5,
+            "communication": 8,
+            "cost": 3,
+            "availability": 4,
+            "fit": 9
+        },
+        {
+            "name": "Przemysław Żabierek",
+            "tech": 1,
+            "communication": 2,
+            "cost": 5,
+            "availability": 8,
+            "fit": 2
+        },
+        {
+            "name": "Iwo Skomra",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 8,
+            "fit": 4
+        },
+        {
+            "name": "Anastazja Buszta",
+            "tech": 9,
+            "communication": 0,
+            "cost": 4,
+            "availability": 5,
+            "fit": 0
+        },
+        {
+            "name": "Iwo Chaba",
+            "tech": 7,
+            "communication": 5,
+            "cost": 2,
+            "availability": 7,
+            "fit": 3
+        },
+        {
+            "name": "Marcin Łągiewka",
+            "tech": 4,
+            "communication": 8,
+            "cost": 6,
+            "availability": 4,
+            "fit": 5
+        },
+        {
+            "name": "Janina Domian",
+            "tech": 7,
+            "communication": 6,
+            "cost": 4,
+            "availability": 8,
+            "fit": 4
+        },
+        {
+            "name": "Andrzej Stasica",
+            "tech": 7,
+            "communication": 10,
+            "cost": 2,
+            "availability": 5,
+            "fit": 4
+        },
+        {
+            "name": "Borys Hadam",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "pani Roksana Cąkała",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 5,
+            "fit": 3
+        },
+        {
+            "name": "pani Urszula Dynia",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 6,
+            "fit": 9
+        },
+        {
+            "name": "Janina Burdach",
+            "tech": 10,
+            "communication": 0,
+            "cost": 9,
+            "availability": 10,
+            "fit": 3
+        },
+        {
+            "name": "Jędrzej Piekart",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 2,
+            "fit": 2
+        },
+        {
+            "name": "Krzysztof Thiel",
+            "tech": 7,
+            "communication": 5,
+            "cost": 7,
+            "availability": 8,
+            "fit": 8
+        },
+        {
+            "name": "Julian Wasil",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 1,
+            "fit": 1
+        },
+        {
+            "name": "Radosław Wiraszka",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 4,
+            "fit": 7
+        },
+        {
+            "name": "Karol Żybura",
+            "tech": 7,
+            "communication": 5,
+            "cost": 9,
+            "availability": 9,
+            "fit": 9
+        },
+        {
+            "name": "pani Natasza Rezler",
+            "tech": 7,
+            "communication": 4,
+            "cost": 6,
+            "availability": 4,
+            "fit": 3
+        },
+        {
+            "name": "Maks Siara",
+            "tech": 1,
+            "communication": 8,
+            "cost": 8,
+            "availability": 5,
+            "fit": 3
+        },
+        {
+            "name": "pan Cyprian Tomys",
+            "tech": 7,
+            "communication": 1,
+            "cost": 9,
+            "availability": 9,
+            "fit": 9
+        },
+        {
+            "name": "Oliwier Nieradko",
+            "tech": 1,
+            "communication": 3,
+            "cost": 5,
+            "availability": 8,
+            "fit": 2
+        },
+        {
+            "name": "pani Eliza Łabuś",
+            "tech": 3,
+            "communication": 8,
+            "cost": 6,
+            "availability": 7,
+            "fit": 3
+        },
+        {
+            "name": "Łukasz Ziętal",
+            "tech": 7,
+            "communication": 4,
+            "cost": 3,
+            "availability": 10,
+            "fit": 3
+        },
+        {
+            "name": "Julianna Roczniak",
+            "tech": 2,
+            "communication": 0,
+            "cost": 9,
+            "availability": 1,
+            "fit": 5
+        },
+        {
+            "name": "Dorota Pajdak",
+            "tech": 7,
+            "communication": 9,
+            "cost": 5,
+            "availability": 7,
+            "fit": 7
+        },
+        {
+            "name": "Janina Hrabia",
+            "tech": 7,
+            "communication": 9,
+            "cost": 8,
+            "availability": 8,
+            "fit": 2
+        },
+        {
+            "name": "pani Marianna Brzeźniak",
+            "tech": 7,
+            "communication": 3,
+            "cost": 3,
+            "availability": 2,
+            "fit": 4
+        },
+        {
+            "name": "pan Kacper Kwapień",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 4,
+            "fit": 3
+        },
+        {
+            "name": "Ryszard Bany",
+            "tech": 9,
+            "communication": 10,
+            "cost": 6,
+            "availability": 0,
+            "fit": 3
+        },
+        {
+            "name": "Natasza Pazdan",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 9,
+            "fit": 8
+        },
+        {
+            "name": "pani Adrianna Glegoła",
+            "tech": 7,
+            "communication": 10,
+            "cost": 10,
+            "availability": 2,
+            "fit": 8
+        },
+        {
+            "name": "Jan Garczyk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 1,
+            "fit": 5
+        },
+        {
+            "name": "Mikołaj Jamroży",
+            "tech": 0,
+            "communication": 1,
+            "cost": 5,
+            "availability": 1,
+            "fit": 10
+        },
+        {
+            "name": "Kajetan Jaszcz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 3,
+            "fit": 5
+        },
+        {
+            "name": "Urszula Piskor",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 0,
+            "fit": 9
+        },
+        {
+            "name": "pani Nela Żurawik",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 9,
+            "fit": 7
+        },
+        {
+            "name": "Ewa Kuk",
+            "tech": 3,
+            "communication": 8,
+            "cost": 8,
+            "availability": 2,
+            "fit": 10
+        },
+        {
+            "name": "Eliza Wiatrak",
+            "tech": 7,
+            "communication": 0,
+            "cost": 3,
+            "availability": 3,
+            "fit": 0
+        },
+        {
+            "name": "Dominik Strzelczak",
+            "tech": 7,
+            "communication": 5,
+            "cost": 9,
+            "availability": 5,
+            "fit": 0
+        },
+        {
+            "name": "Rozalia Witkowicz",
+            "tech": 6,
+            "communication": 8,
+            "cost": 5,
+            "availability": 10,
+            "fit": 6
+        },
+        {
+            "name": "Dawid Rzucidło",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 8,
+            "fit": 0
+        },
+        {
+            "name": "Damian Pierchała",
+            "tech": 3,
+            "communication": 5,
+            "cost": 5,
+            "availability": 3,
+            "fit": 8
+        },
+        {
+            "name": "Rafał Ziemann",
+            "tech": 7,
+            "communication": 3,
+            "cost": 3,
+            "availability": 5,
+            "fit": 2
+        },
+        {
+            "name": "Inga Nieradzik",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 4,
+            "fit": 1
+        },
+        {
+            "name": "Roksana Kurc",
+            "tech": 8,
+            "communication": 2,
+            "cost": 10,
+            "availability": 2,
+            "fit": 7
+        },
+        {
+            "name": "Aleksander Bastek",
+            "tech": 7,
+            "communication": 0,
+            "cost": 10,
+            "availability": 9,
+            "fit": 2
+        },
+        {
+            "name": "Dawid Smorąg",
+            "tech": 7,
+            "communication": 6,
+            "cost": 10,
+            "availability": 3,
+            "fit": 5
+        },
+        {
+            "name": "Roksana Fik",
+            "tech": 7,
+            "communication": 9,
+            "cost": 5,
+            "availability": 8,
+            "fit": 0
+        },
+        {
+            "name": "Szymon Reich",
+            "tech": 6,
+            "communication": 8,
+            "cost": 9,
+            "availability": 7,
+            "fit": 10
+        },
+        {
+            "name": "Olga Zegadło",
+            "tech": 2,
+            "communication": 2,
+            "cost": 5,
+            "availability": 3,
+            "fit": 10
+        },
+        {
+            "name": "Paweł Gal",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 5,
+            "fit": 4
+        },
+        {
+            "name": "Dawid Reimann",
+            "tech": 7,
+            "communication": 4,
+            "cost": 9,
+            "availability": 6,
+            "fit": 8
+        },
+        {
+            "name": "Alan Juraszczyk",
+            "tech": 2,
+            "communication": 8,
+            "cost": 5,
+            "availability": 2,
+            "fit": 10
+        },
+        {
+            "name": "Józef Andryszczyk",
+            "tech": 7,
+            "communication": 5,
+            "cost": 4,
+            "availability": 9,
+            "fit": 6
+        },
+        {
+            "name": "Sara Kosno",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 2,
+            "fit": 10
+        },
+        {
+            "name": "Julianna Nyk",
+            "tech": 7,
+            "communication": 6,
+            "cost": 10,
+            "availability": 7,
+            "fit": 2
+        },
+        {
+            "name": "pani Melania Janasz",
+            "tech": 7,
+            "communication": 1,
+            "cost": 3,
+            "availability": 1,
+            "fit": 6
+        },
+        {
+            "name": "Kaja Żuchowicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 0,
+            "fit": 2
+        },
+        {
+            "name": "Arkadiusz Wylegała",
+            "tech": 6,
+            "communication": 5,
+            "cost": 10,
+            "availability": 0,
+            "fit": 2
+        },
+        {
+            "name": "Mieszko Boduch",
+            "tech": 7,
+            "communication": 3,
+            "cost": 2,
+            "availability": 5,
+            "fit": 1
+        },
+        {
+            "name": "Rozalia Jop",
+            "tech": 7,
+            "communication": 1,
+            "cost": 8,
+            "availability": 6,
+            "fit": 5
+        },
+        {
+            "name": "pani Anastazja Słoboda",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 4,
+            "fit": 5
+        },
+        {
+            "name": "pan Tadeusz Pachuta",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 2,
+            "fit": 1
+        },
+        {
+            "name": "Tymon Pastuszko",
+            "tech": 0,
+            "communication": 7,
+            "cost": 9,
+            "availability": 7,
+            "fit": 1
+        },
+        {
+            "name": "Aleks Procek",
+            "tech": 9,
+            "communication": 8,
+            "cost": 3,
+            "availability": 5,
+            "fit": 9
+        },
+        {
+            "name": "Eryk Dering",
+            "tech": 7,
+            "communication": 2,
+            "cost": 2,
+            "availability": 7,
+            "fit": 2
+        },
+        {
+            "name": "Tomasz Sydor",
+            "tech": 7,
+            "communication": 9,
+            "cost": 5,
+            "availability": 7,
+            "fit": 1
+        },
+        {
+            "name": "Dariusz Kudełka",
+            "tech": 8,
+            "communication": 2,
+            "cost": 9,
+            "availability": 1,
+            "fit": 3
+        },
+        {
+            "name": "pani Angelika Siekierka",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 3,
+            "fit": 1
+        },
+        {
+            "name": "pani Olga Łaciak",
+            "tech": 8,
+            "communication": 8,
+            "cost": 9,
+            "availability": 9,
+            "fit": 10
+        },
+        {
+            "name": "pan Mariusz Dumin",
+            "tech": 7,
+            "communication": 9,
+            "cost": 6,
+            "availability": 1,
+            "fit": 7
+        },
+        {
+            "name": "Dawid Boduch",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 0,
+            "fit": 10
+        },
+        {
+            "name": "Krzysztof Pyś",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 4,
+            "fit": 6
+        },
+        {
+            "name": "pan Grzegorz Kosznik",
+            "tech": 7,
+            "communication": 3,
+            "cost": 10,
+            "availability": 4,
+            "fit": 9
+        },
+        {
+            "name": "Michał Szkopek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 3,
+            "fit": 3
+        },
+        {
+            "name": "Jacek Pelka",
+            "tech": 7,
+            "communication": 0,
+            "cost": 10,
+            "availability": 10,
+            "fit": 10
+        },
+        {
+            "name": "Eryk Sajewicz",
+            "tech": 7,
+            "communication": 3,
+            "cost": 5,
+            "availability": 1,
+            "fit": 6
+        },
+        {
+            "name": "Jan Hewelt",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 1,
+            "fit": 1
+        },
+        {
+            "name": "pan Gustaw Hermanowicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 5,
+            "fit": 4
+        },
+        {
+            "name": "Emil Maruszczak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 1,
+            "fit": 3
+        },
+        {
+            "name": "Aleks Drej",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 3,
+            "fit": 0
+        },
+        {
+            "name": "Kacper Pietrasiak",
+            "tech": 7,
+            "communication": 0,
+            "cost": 9,
+            "availability": 6,
+            "fit": 4
+        },
+        {
+            "name": "pani Kamila Batóg",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 0,
+            "fit": 5
+        },
+        {
+            "name": "Leon Krzywoń",
+            "tech": 9,
+            "communication": 5,
+            "cost": 4,
+            "availability": 0,
+            "fit": 2
+        },
+        {
+            "name": "Cezary Betlej",
+            "tech": 4,
+            "communication": 9,
+            "cost": 10,
+            "availability": 2,
+            "fit": 0
+        },
+        {
+            "name": "Kacper Muzyk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 6,
+            "fit": 10
+        },
+        {
+            "name": "Ada Rawa",
+            "tech": 7,
+            "communication": 2,
+            "cost": 7,
+            "availability": 3,
+            "fit": 8
+        },
+        {
+            "name": "pani Marika Motak",
+            "tech": 1,
+            "communication": 8,
+            "cost": 8,
+            "availability": 9,
+            "fit": 3
+        },
+        {
+            "name": "Fryderyk Ciastek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 1,
+            "fit": 6
+        },
+        {
+            "name": "Kajetan Zyguła",
+            "tech": 7,
+            "communication": 9,
+            "cost": 3,
+            "availability": 5,
+            "fit": 1
+        },
+        {
+            "name": "Kamil Cieniuch",
+            "tech": 7,
+            "communication": 7,
+            "cost": 10,
+            "availability": 8,
+            "fit": 5
+        },
+        {
+            "name": "Anita Korkosz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 7,
+            "fit": 3
+        },
+        {
+            "name": "pan Leon Goliasz",
+            "tech": 7,
+            "communication": 10,
+            "cost": 9,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "pani Monika Pogorzelec",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 5,
+            "fit": 5
+        },
+        {
+            "name": "pani Apolonia Kurzaj",
+            "tech": 5,
+            "communication": 2,
+            "cost": 8,
+            "availability": 3,
+            "fit": 5
+        },
+        {
+            "name": "Maciej Buchholz",
+            "tech": 0,
+            "communication": 5,
+            "cost": 7,
+            "availability": 7,
+            "fit": 1
+        },
+        {
+            "name": "Jakub Prystupa",
+            "tech": 7,
+            "communication": 2,
+            "cost": 6,
+            "availability": 8,
+            "fit": 8
+        },
+        {
+            "name": "Agnieszka Wolff",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 5,
+            "fit": 4
+        },
+        {
+            "name": "Mieszko Gajowiak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 8,
+            "fit": 3
+        },
+        {
+            "name": "Oskar Pałęga",
+            "tech": 9,
+            "communication": 8,
+            "cost": 5,
+            "availability": 2,
+            "fit": 7
+        },
+        {
+            "name": "pan Aleks Królikiewicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 5,
+            "fit": 1
+        },
+        {
+            "name": "Marek Cywka",
+            "tech": 7,
+            "communication": 5,
+            "cost": 2,
+            "availability": 5,
+            "fit": 10
+        },
+        {
+            "name": "Aleks Wrześniak",
+            "tech": 1,
+            "communication": 8,
+            "cost": 5,
+            "availability": 7,
+            "fit": 2
+        },
+        {
+            "name": "Jeremi Tałaj",
+            "tech": 7,
+            "communication": 5,
+            "cost": 9,
+            "availability": 3,
+            "fit": 10
+        },
+        {
+            "name": "pani Adrianna Bela",
+            "tech": 7,
+            "communication": 6,
+            "cost": 3,
+            "availability": 6,
+            "fit": 6
+        },
+        {
+            "name": "pan Leonard Drabczyk",
+            "tech": 0,
+            "communication": 5,
+            "cost": 7,
+            "availability": 8,
+            "fit": 7
+        },
+        {
+            "name": "Lidia Pesta",
+            "tech": 9,
+            "communication": 8,
+            "cost": 4,
+            "availability": 8,
+            "fit": 5
+        },
+        {
+            "name": "Anna Maria Garczarek",
+            "tech": 7,
+            "communication": 0,
+            "cost": 8,
+            "availability": 6,
+            "fit": 10
+        },
+        {
+            "name": "Marcelina Zmyślony",
+            "tech": 7,
+            "communication": 4,
+            "cost": 8,
+            "availability": 10,
+            "fit": 5
+        },
+        {
+            "name": "pani Ida Kocaj",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 1,
+            "fit": 9
+        },
+        {
+            "name": "Marika Cacko",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 4,
+            "fit": 10
+        },
+        {
+            "name": "Stefan Nytko",
+            "tech": 10,
+            "communication": 10,
+            "cost": 3,
+            "availability": 4,
+            "fit": 8
+        },
+        {
+            "name": "Adrianna Greszta",
+            "tech": 7,
+            "communication": 6,
+            "cost": 10,
+            "availability": 9,
+            "fit": 10
+        },
+        {
+            "name": "pan Tobiasz Basa",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 2,
+            "fit": 2
+        },
+        {
+            "name": "Igor Lipok",
+            "tech": 0,
+            "communication": 8,
+            "cost": 8,
+            "availability": 8,
+            "fit": 9
+        },
+        {
+            "name": "pan Robert Kopciuch",
+            "tech": 7,
+            "communication": 5,
+            "cost": 9,
+            "availability": 3,
+            "fit": 8
+        },
+        {
+            "name": "Julianna Maciejuk",
+            "tech": 3,
+            "communication": 7,
+            "cost": 6,
+            "availability": 1,
+            "fit": 10
+        },
+        {
+            "name": "Sara Hajda",
+            "tech": 7,
+            "communication": 4,
+            "cost": 5,
+            "availability": 3,
+            "fit": 5
+        },
+        {
+            "name": "Maks Misztela",
+            "tech": 7,
+            "communication": 4,
+            "cost": 5,
+            "availability": 10,
+            "fit": 10
+        },
+        {
+            "name": "pani Rozalia Majzner",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 8,
+            "fit": 0
+        },
+        {
+            "name": "Janina Chłąd",
+            "tech": 7,
+            "communication": 3,
+            "cost": 5,
+            "availability": 1,
+            "fit": 9
+        },
+        {
+            "name": "Wojciech Długozima",
+            "tech": 7,
+            "communication": 6,
+            "cost": 5,
+            "availability": 9,
+            "fit": 5
+        },
+        {
+            "name": "Nela Kobak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 4,
+            "fit": 5
+        },
+        {
+            "name": "pan Mariusz Mikołajewicz",
+            "tech": 5,
+            "communication": 7,
+            "cost": 8,
+            "availability": 8,
+            "fit": 7
+        },
+        {
+            "name": "Błażej Supeł",
+            "tech": 2,
+            "communication": 8,
+            "cost": 5,
+            "availability": 3,
+            "fit": 8
+        },
+        {
+            "name": "Ewelina Ulrych",
+            "tech": 7,
+            "communication": 1,
+            "cost": 3,
+            "availability": 4,
+            "fit": 2
+        },
+        {
+            "name": "Rozalia Ciemięga",
+            "tech": 7,
+            "communication": 5,
+            "cost": 2,
+            "availability": 4,
+            "fit": 8
+        },
+        {
+            "name": "Natasza Dylik",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 4,
+            "fit": 9
+        },
+        {
+            "name": "Ewelina Kurda",
+            "tech": 2,
+            "communication": 6,
+            "cost": 2,
+            "availability": 6,
+            "fit": 0
+        },
+        {
+            "name": "Natan Pleskot",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 4,
+            "fit": 8
+        },
+        {
+            "name": "Szymon Plaskota",
+            "tech": 7,
+            "communication": 1,
+            "cost": 7,
+            "availability": 0,
+            "fit": 10
+        },
+        {
+            "name": "Anita Utrata",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 10,
+            "fit": 0
+        },
+        {
+            "name": "pan Dominik Salwin",
+            "tech": 7,
+            "communication": 9,
+            "cost": 8,
+            "availability": 8,
+            "fit": 1
+        },
+        {
+            "name": "pani Aurelia Drost",
+            "tech": 7,
+            "communication": 9,
+            "cost": 7,
+            "availability": 8,
+            "fit": 0
+        },
+        {
+            "name": "pani Anna Maria Gaś",
+            "tech": 7,
+            "communication": 3,
+            "cost": 2,
+            "availability": 10,
+            "fit": 8
+        },
+        {
+            "name": "Michał Rusiniak",
+            "tech": 6,
+            "communication": 8,
+            "cost": 2,
+            "availability": 2,
+            "fit": 1
+        },
+        {
+            "name": "Tola Cieplucha",
+            "tech": 4,
+            "communication": 4,
+            "cost": 9,
+            "availability": 5,
+            "fit": 9
+        },
+        {
+            "name": "Kaja Szczypek",
+            "tech": 7,
+            "communication": 7,
+            "cost": 5,
+            "availability": 5,
+            "fit": 5
+        },
+        {
+            "name": "Kalina Kudełka",
+            "tech": 7,
+            "communication": 4,
+            "cost": 8,
+            "availability": 4,
+            "fit": 9
+        },
+        {
+            "name": "Grzegorz Chylak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 7,
+            "fit": 10
+        },
+        {
+            "name": "Stefan Czerner",
+            "tech": 5,
+            "communication": 0,
+            "cost": 4,
+            "availability": 0,
+            "fit": 6
+        },
+        {
+            "name": "Kornel Zieja",
+            "tech": 10,
+            "communication": 9,
+            "cost": 6,
+            "availability": 10,
+            "fit": 7
+        },
+        {
+            "name": "Julita Block",
+            "tech": 4,
+            "communication": 6,
+            "cost": 6,
+            "availability": 9,
+            "fit": 5
+        },
+        {
+            "name": "Jan Dziopa",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 10,
+            "fit": 0
+        },
+        {
+            "name": "Julian Stebel",
+            "tech": 7,
+            "communication": 0,
+            "cost": 4,
+            "availability": 9,
+            "fit": 8
+        },
+        {
+            "name": "Bianka Jasnoch",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 1,
+            "fit": 2
+        },
+        {
+            "name": "Tymon Groborz",
+            "tech": 0,
+            "communication": 8,
+            "cost": 7,
+            "availability": 5,
+            "fit": 2
+        },
+        {
+            "name": "pan Gustaw Humeniuk",
+            "tech": 4,
+            "communication": 8,
+            "cost": 9,
+            "availability": 8,
+            "fit": 10
+        },
+        {
+            "name": "pan Fabian Syldatk",
+            "tech": 7,
+            "communication": 10,
+            "cost": 8,
+            "availability": 3,
+            "fit": 6
+        },
+        {
+            "name": "pani Urszula Kenig",
+            "tech": 7,
+            "communication": 5,
+            "cost": 10,
+            "availability": 6,
+            "fit": 4
+        },
+        {
+            "name": "Maciej Kruś",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 4,
+            "fit": 8
+        },
+        {
+            "name": "pan Albert Kurach",
+            "tech": 1,
+            "communication": 7,
+            "cost": 4,
+            "availability": 9,
+            "fit": 7
+        },
+        {
+            "name": "pan Alex Bittner",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 2,
+            "fit": 8
+        },
+        {
+            "name": "Juliusz Miros",
+            "tech": 7,
+            "communication": 3,
+            "cost": 5,
+            "availability": 1,
+            "fit": 1
+        },
+        {
+            "name": "Konstanty Ignatiuk",
+            "tech": 7,
+            "communication": 4,
+            "cost": 6,
+            "availability": 3,
+            "fit": 10
+        },
+        {
+            "name": "Ryszard Pitala",
+            "tech": 1,
+            "communication": 3,
+            "cost": 7,
+            "availability": 4,
+            "fit": 9
+        },
+        {
+            "name": "Kaja Nitkiewicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 1,
+            "fit": 2
+        },
+        {
+            "name": "Gustaw Bełza",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 2,
+            "fit": 6
+        },
+        {
+            "name": "Albert Jakubaszek",
+            "tech": 3,
+            "communication": 1,
+            "cost": 10,
+            "availability": 3,
+            "fit": 8
+        },
+        {
+            "name": "Konrad Kazubek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 4,
+            "fit": 3
+        },
+        {
+            "name": "Jakub Turoń",
+            "tech": 6,
+            "communication": 6,
+            "cost": 4,
+            "availability": 4,
+            "fit": 8
+        },
+        {
+            "name": "Apolonia Doktor",
+            "tech": 0,
+            "communication": 7,
+            "cost": 9,
+            "availability": 2,
+            "fit": 10
+        },
+        {
+            "name": "Justyna Sajnóg",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 2,
+            "fit": 8
+        },
+        {
+            "name": "Jan Kabza",
+            "tech": 5,
+            "communication": 8,
+            "cost": 6,
+            "availability": 8,
+            "fit": 1
+        },
+        {
+            "name": "Ida Domowicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 10,
+            "fit": 8
+        },
+        {
+            "name": "Tymoteusz Komperda",
+            "tech": 7,
+            "communication": 10,
+            "cost": 5,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "Albert Matela",
+            "tech": 3,
+            "communication": 7,
+            "cost": 3,
+            "availability": 9,
+            "fit": 6
+        },
+        {
+            "name": "Dagmara Steckiewicz",
+            "tech": 7,
+            "communication": 3,
+            "cost": 8,
+            "availability": 1,
+            "fit": 1
+        },
+        {
+            "name": "Borys Dulewicz",
+            "tech": 4,
+            "communication": 8,
+            "cost": 9,
+            "availability": 1,
+            "fit": 3
+        },
+        {
+            "name": "Emil Pastor",
+            "tech": 3,
+            "communication": 1,
+            "cost": 6,
+            "availability": 10,
+            "fit": 0
+        },
+        {
+            "name": "Norbert Muzyk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 4,
+            "fit": 2
+        },
+        {
+            "name": "Piotr Majczyna",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 2,
+            "fit": 6
+        },
+        {
+            "name": "Błażej Pyszczek",
+            "tech": 7,
+            "communication": 9,
+            "cost": 8,
+            "availability": 5,
+            "fit": 8
+        },
+        {
+            "name": "pan Wiktor Tylus",
+            "tech": 7,
+            "communication": 9,
+            "cost": 5,
+            "availability": 7,
+            "fit": 5
+        },
+        {
+            "name": "Łukasz Jarczyk",
+            "tech": 1,
+            "communication": 5,
+            "cost": 2,
+            "availability": 5,
+            "fit": 4
+        },
+        {
+            "name": "Julianna Widłak",
+            "tech": 7,
+            "communication": 9,
+            "cost": 4,
+            "availability": 6,
+            "fit": 10
+        },
+        {
+            "name": "pan Stefan Szczudło",
+            "tech": 8,
+            "communication": 8,
+            "cost": 8,
+            "availability": 2,
+            "fit": 9
+        },
+        {
+            "name": "pan Nikodem Omiotek",
+            "tech": 3,
+            "communication": 8,
+            "cost": 4,
+            "availability": 9,
+            "fit": 9
+        },
+        {
+            "name": "Grzegorz Franc",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 4,
+            "fit": 0
+        },
+        {
+            "name": "Aniela Zięciak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 0,
+            "fit": 4
+        },
+        {
+            "name": "Piotr Bryja",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 10,
+            "fit": 3
+        },
+        {
+            "name": "Fabian Ślebioda",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 5,
+            "fit": 1
+        },
+        {
+            "name": "Nataniel Kaja",
+            "tech": 7,
+            "communication": 9,
+            "cost": 6,
+            "availability": 3,
+            "fit": 10
+        },
+        {
+            "name": "Róża Giezek",
+            "tech": 7,
+            "communication": 9,
+            "cost": 7,
+            "availability": 8,
+            "fit": 3
+        },
+        {
+            "name": "pani Ida Więcławek",
+            "tech": 7,
+            "communication": 4,
+            "cost": 3,
+            "availability": 2,
+            "fit": 1
+        },
+        {
+            "name": "Konstanty Zbróg",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 0,
+            "fit": 2
+        },
+        {
+            "name": "Kornelia Mądrzak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 10,
+            "fit": 8
+        },
+        {
+            "name": "Ada Tabiś",
+            "tech": 10,
+            "communication": 8,
+            "cost": 10,
+            "availability": 1,
+            "fit": 10
+        },
+        {
+            "name": "Aurelia Gul",
+            "tech": 7,
+            "communication": 7,
+            "cost": 3,
+            "availability": 6,
+            "fit": 0
+        },
+        {
+            "name": "pani Aurelia Żyrek",
+            "tech": 2,
+            "communication": 9,
+            "cost": 7,
+            "availability": 0,
+            "fit": 5
+        },
+        {
+            "name": "Ryszard Pachnik",
+            "tech": 7,
+            "communication": 4,
+            "cost": 10,
+            "availability": 4,
+            "fit": 7
+        },
+        {
+            "name": "pan Kornel Barczuk",
+            "tech": 2,
+            "communication": 8,
+            "cost": 6,
+            "availability": 1,
+            "fit": 10
+        },
+        {
+            "name": "pan Miłosz Strzępek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 4,
+            "fit": 3
+        },
+        {
+            "name": "Jacek Aleksa",
+            "tech": 9,
+            "communication": 4,
+            "cost": 6,
+            "availability": 1,
+            "fit": 9
+        },
+        {
+            "name": "Alan Kosak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 5,
+            "fit": 5
+        },
+        {
+            "name": "pan Sebastian Pastuszko",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 3,
+            "fit": 1
+        },
+        {
+            "name": "Gabriel Gmur",
+            "tech": 7,
+            "communication": 2,
+            "cost": 2,
+            "availability": 6,
+            "fit": 7
+        },
+        {
+            "name": "Stanisław Gabryszak",
+            "tech": 7,
+            "communication": 0,
+            "cost": 5,
+            "availability": 3,
+            "fit": 8
+        },
+        {
+            "name": "Ryszard Orwat",
+            "tech": 7,
+            "communication": 9,
+            "cost": 7,
+            "availability": 7,
+            "fit": 3
+        },
+        {
+            "name": "Fryderyk Biegała",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 8,
+            "fit": 6
+        },
+        {
+            "name": "Krystian Szałaj",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 8,
+            "fit": 10
+        },
+        {
+            "name": "Mieszko Parzyszek",
+            "tech": 5,
+            "communication": 5,
+            "cost": 2,
+            "availability": 7,
+            "fit": 1
+        },
+        {
+            "name": "Elżbieta Więckiewicz",
+            "tech": 7,
+            "communication": 4,
+            "cost": 9,
+            "availability": 3,
+            "fit": 6
+        },
+        {
+            "name": "Fryderyk Błaszyk",
+            "tech": 7,
+            "communication": 0,
+            "cost": 10,
+            "availability": 10,
+            "fit": 8
+        },
+        {
+            "name": "Albert Paździora",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 6,
+            "fit": 9
+        },
+        {
+            "name": "Ignacy Strządała",
+            "tech": 7,
+            "communication": 0,
+            "cost": 4,
+            "availability": 9,
+            "fit": 4
+        },
+        {
+            "name": "Kacper Raźny",
+            "tech": 5,
+            "communication": 8,
+            "cost": 7,
+            "availability": 6,
+            "fit": 5
+        },
+        {
+            "name": "pan Karol Wołoszczuk",
+            "tech": 10,
+            "communication": 8,
+            "cost": 6,
+            "availability": 6,
+            "fit": 4
+        },
+        {
+            "name": "Michał Piaseczna",
+            "tech": 1,
+            "communication": 6,
+            "cost": 10,
+            "availability": 6,
+            "fit": 7
+        },
+        {
+            "name": "Agnieszka Wężyk",
+            "tech": 2,
+            "communication": 10,
+            "cost": 7,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "Cyprian Kózka",
+            "tech": 7,
+            "communication": 7,
+            "cost": 8,
+            "availability": 1,
+            "fit": 7
+        },
+        {
+            "name": "pani Elżbieta Linka",
+            "tech": 8,
+            "communication": 9,
+            "cost": 8,
+            "availability": 0,
+            "fit": 2
+        },
+        {
+            "name": "Paweł Gadzina",
+            "tech": 7,
+            "communication": 3,
+            "cost": 6,
+            "availability": 7,
+            "fit": 6
+        },
+        {
+            "name": "Krystyna Piekarek",
+            "tech": 3,
+            "communication": 8,
+            "cost": 9,
+            "availability": 5,
+            "fit": 10
+        },
+        {
+            "name": "Anastazja Beck",
+            "tech": 8,
+            "communication": 8,
+            "cost": 4,
+            "availability": 10,
+            "fit": 0
+        },
+        {
+            "name": "Kornelia Matyjaszek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 5,
+            "fit": 4
+        },
+        {
+            "name": "Tadeusz Sabała",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 3,
+            "fit": 10
+        },
+        {
+            "name": "Kaja Juraszczyk",
+            "tech": 6,
+            "communication": 8,
+            "cost": 5,
+            "availability": 3,
+            "fit": 1
+        },
+        {
+            "name": "pan Fabian Bzdęga",
+            "tech": 2,
+            "communication": 3,
+            "cost": 2,
+            "availability": 9,
+            "fit": 1
+        },
+        {
+            "name": "Stanisław Andruszko",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 1,
+            "fit": 5
+        },
+        {
+            "name": "pani Karina Kunda",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 7,
+            "fit": 5
+        },
+        {
+            "name": "Maksymilian Łyskawa",
+            "tech": 9,
+            "communication": 8,
+            "cost": 5,
+            "availability": 2,
+            "fit": 1
+        },
+        {
+            "name": "Dariusz Karnas",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 10,
+            "fit": 10
+        },
+        {
+            "name": "pan Piotr Jargieło",
+            "tech": 7,
+            "communication": 6,
+            "cost": 9,
+            "availability": 5,
+            "fit": 2
+        },
+        {
+            "name": "pani Eliza Ochab",
+            "tech": 7,
+            "communication": 6,
+            "cost": 7,
+            "availability": 1,
+            "fit": 3
+        },
+        {
+            "name": "Piotr Mosiołek",
+            "tech": 1,
+            "communication": 8,
+            "cost": 6,
+            "availability": 10,
+            "fit": 10
+        },
+        {
+            "name": "Kaja Ekert",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 3,
+            "fit": 7
+        },
+        {
+            "name": "pan Michał Szambelan",
+            "tech": 8,
+            "communication": 7,
+            "cost": 6,
+            "availability": 9,
+            "fit": 2
+        },
+        {
+            "name": "Kajetan Wujec",
+            "tech": 9,
+            "communication": 8,
+            "cost": 10,
+            "availability": 0,
+            "fit": 9
+        },
+        {
+            "name": "Kacper Kenig",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 4,
+            "fit": 4
+        },
+        {
+            "name": "pani Ada Miodek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 8,
+            "fit": 0
+        },
+        {
+            "name": "Michał Rudolf",
+            "tech": 7,
+            "communication": 10,
+            "cost": 8,
+            "availability": 4,
+            "fit": 7
+        },
+        {
+            "name": "Natan Antoszczyk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 6,
+            "fit": 8
+        },
+        {
+            "name": "Fryderyk Plizga",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 8,
+            "fit": 10
+        },
+        {
+            "name": "Borys Łupina",
+            "tech": 7,
+            "communication": 5,
+            "cost": 9,
+            "availability": 7,
+            "fit": 7
+        },
+        {
+            "name": "pani Rozalia Przewoźnik",
+            "tech": 4,
+            "communication": 4,
+            "cost": 8,
+            "availability": 6,
+            "fit": 10
+        },
+        {
+            "name": "Jan Suchoń",
+            "tech": 8,
+            "communication": 8,
+            "cost": 2,
+            "availability": 7,
+            "fit": 3
+        },
+        {
+            "name": "Elżbieta Mleczak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 3,
+            "fit": 0
+        },
+        {
+            "name": "Marika Michel",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 10,
+            "fit": 9
+        },
+        {
+            "name": "Roksana Rzeszut",
+            "tech": 7,
+            "communication": 0,
+            "cost": 5,
+            "availability": 6,
+            "fit": 10
+        },
+        {
+            "name": "Bianka Bobrowicz",
+            "tech": 7,
+            "communication": 4,
+            "cost": 5,
+            "availability": 2,
+            "fit": 8
+        },
+        {
+            "name": "Leonard Kopytko",
+            "tech": 7,
+            "communication": 4,
+            "cost": 4,
+            "availability": 7,
+            "fit": 4
+        },
+        {
+            "name": "Piotr Barcz",
+            "tech": 1,
+            "communication": 4,
+            "cost": 10,
+            "availability": 3,
+            "fit": 8
+        },
+        {
+            "name": "Marcin Zugaj",
+            "tech": 7,
+            "communication": 5,
+            "cost": 4,
+            "availability": 1,
+            "fit": 8
+        },
+        {
+            "name": "Aleks Duras",
+            "tech": 2,
+            "communication": 8,
+            "cost": 10,
+            "availability": 3,
+            "fit": 4
+        },
+        {
+            "name": "pan Leon Krzysztoszek",
+            "tech": 7,
+            "communication": 2,
+            "cost": 9,
+            "availability": 1,
+            "fit": 3
+        },
+        {
+            "name": "Julianna Kornek",
+            "tech": 7,
+            "communication": 9,
+            "cost": 7,
+            "availability": 2,
+            "fit": 3
+        },
+        {
+            "name": "Aniela Siedlik",
+            "tech": 7,
+            "communication": 5,
+            "cost": 4,
+            "availability": 6,
+            "fit": 7
+        },
+        {
+            "name": "Elżbieta Goś",
+            "tech": 6,
+            "communication": 8,
+            "cost": 9,
+            "availability": 6,
+            "fit": 4
+        },
+        {
+            "name": "Kornelia Węgrzynek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 4,
+            "fit": 4
+        },
+        {
+            "name": "Jędrzej Igras",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 8,
+            "fit": 10
+        },
+        {
+            "name": "Bruno Mikłaszewicz",
+            "tech": 6,
+            "communication": 3,
+            "cost": 8,
+            "availability": 5,
+            "fit": 1
+        },
+        {
+            "name": "Mariusz Tryka",
+            "tech": 7,
+            "communication": 0,
+            "cost": 7,
+            "availability": 1,
+            "fit": 6
+        },
+        {
+            "name": "pani Angelika Kruszka",
+            "tech": 7,
+            "communication": 1,
+            "cost": 3,
+            "availability": 8,
+            "fit": 1
+        },
+        {
+            "name": "Marcel Mainka",
+            "tech": 7,
+            "communication": 0,
+            "cost": 2,
+            "availability": 2,
+            "fit": 0
+        },
+        {
+            "name": "Krzysztof Borysiuk",
+            "tech": 7,
+            "communication": 5,
+            "cost": 5,
+            "availability": 4,
+            "fit": 0
+        },
+        {
+            "name": "Nela Chaberek",
+            "tech": 7,
+            "communication": 10,
+            "cost": 7,
+            "availability": 5,
+            "fit": 1
+        },
+        {
+            "name": "Lidia Gwizdek",
+            "tech": 7,
+            "communication": 6,
+            "cost": 7,
+            "availability": 8,
+            "fit": 2
+        },
+        {
+            "name": "Gabriel Chalimoniuk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 0,
+            "fit": 8
+        },
+        {
+            "name": "Tymoteusz Kansy",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 3,
+            "fit": 6
+        },
+        {
+            "name": "pan Aleksander Szczypek",
+            "tech": 9,
+            "communication": 8,
+            "cost": 6,
+            "availability": 9,
+            "fit": 1
+        },
+        {
+            "name": "Apolonia Downar",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 7,
+            "fit": 9
+        },
+        {
+            "name": "Stefan Drost",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 5,
+            "fit": 9
+        },
+        {
+            "name": "Konstanty Buszta",
+            "tech": 7,
+            "communication": 6,
+            "cost": 5,
+            "availability": 5,
+            "fit": 7
+        },
+        {
+            "name": "Franciszek Małyszka",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 5,
+            "fit": 8
+        },
+        {
+            "name": "pani Monika Wojtach",
+            "tech": 7,
+            "communication": 7,
+            "cost": 10,
+            "availability": 8,
+            "fit": 10
+        },
+        {
+            "name": "Adrianna Kosowicz",
+            "tech": 0,
+            "communication": 10,
+            "cost": 2,
+            "availability": 9,
+            "fit": 4
+        },
+        {
+            "name": "Tymoteusz Swaczyna",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 3,
+            "fit": 8
+        },
+        {
+            "name": "Stefan Dębniak",
+            "tech": 10,
+            "communication": 5,
+            "cost": 6,
+            "availability": 3,
+            "fit": 0
+        },
+        {
+            "name": "pani Klara Gałęza",
+            "tech": 3,
+            "communication": 8,
+            "cost": 2,
+            "availability": 5,
+            "fit": 4
+        },
+        {
+            "name": "Melania Kozłowicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 4,
+            "fit": 2
+        },
+        {
+            "name": "Ksawery Ragus",
+            "tech": 1,
+            "communication": 1,
+            "cost": 8,
+            "availability": 4,
+            "fit": 9
+        },
+        {
+            "name": "Piotr Gabara",
+            "tech": 7,
+            "communication": 2,
+            "cost": 7,
+            "availability": 1,
+            "fit": 4
+        },
+        {
+            "name": "Olgierd Cieloch",
+            "tech": 7,
+            "communication": 2,
+            "cost": 6,
+            "availability": 5,
+            "fit": 5
+        },
+        {
+            "name": "Ewelina Kręcichwost",
+            "tech": 7,
+            "communication": 2,
+            "cost": 10,
+            "availability": 4,
+            "fit": 10
+        },
+        {
+            "name": "pani Adrianna Srokosz",
+            "tech": 7,
+            "communication": 9,
+            "cost": 9,
+            "availability": 9,
+            "fit": 6
+        },
+        {
+            "name": "Ewelina Hak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 2,
+            "fit": 1
+        },
+        {
+            "name": "Mieszko Myszak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 3,
+            "fit": 7
+        },
+        {
+            "name": "pan Karol Knych",
+            "tech": 7,
+            "communication": 2,
+            "cost": 3,
+            "availability": 0,
+            "fit": 7
+        },
+        {
+            "name": "Eryk Kuświk",
+            "tech": 7,
+            "communication": 7,
+            "cost": 8,
+            "availability": 9,
+            "fit": 2
+        },
+        {
+            "name": "Przemysław Głowiak",
+            "tech": 7,
+            "communication": 7,
+            "cost": 4,
+            "availability": 3,
+            "fit": 2
+        },
+        {
+            "name": "Tomasz Pachuta",
+            "tech": 9,
+            "communication": 7,
+            "cost": 10,
+            "availability": 7,
+            "fit": 0
+        },
+        {
+            "name": "pani Ewelina Sieja",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 6,
+            "fit": 6
+        },
+        {
+            "name": "Grzegorz Podleśna",
+            "tech": 9,
+            "communication": 9,
+            "cost": 6,
+            "availability": 0,
+            "fit": 5
+        },
+        {
+            "name": "pani Liwia Koniecko",
+            "tech": 7,
+            "communication": 6,
+            "cost": 8,
+            "availability": 3,
+            "fit": 7
+        },
+        {
+            "name": "Grzegorz Kulisz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 0,
+            "fit": 9
+        },
+        {
+            "name": "Przemysław Latacz",
+            "tech": 9,
+            "communication": 8,
+            "cost": 5,
+            "availability": 10,
+            "fit": 4
+        },
+        {
+            "name": "pani Kamila Hnat",
+            "tech": 7,
+            "communication": 4,
+            "cost": 9,
+            "availability": 8,
+            "fit": 6
+        },
+        {
+            "name": "pani Melania Dziwak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 7,
+            "fit": 9
+        },
+        {
+            "name": "pani Liwia Bojdo",
+            "tech": 5,
+            "communication": 8,
+            "cost": 3,
+            "availability": 10,
+            "fit": 6
+        },
+        {
+            "name": "Kornel Balas",
+            "tech": 8,
+            "communication": 3,
+            "cost": 3,
+            "availability": 8,
+            "fit": 4
+        },
+        {
+            "name": "Sebastian Hamera",
+            "tech": 7,
+            "communication": 7,
+            "cost": 6,
+            "availability": 1,
+            "fit": 2
+        },
+        {
+            "name": "Liwia Kielczyk",
+            "tech": 4,
+            "communication": 8,
+            "cost": 9,
+            "availability": 1,
+            "fit": 3
+        },
+        {
+            "name": "pani Ida Malka",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 7,
+            "fit": 1
+        },
+        {
+            "name": "pani Malwina Jeka",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 7,
+            "fit": 0
+        },
+        {
+            "name": "pani Ada Swatek",
+            "tech": 7,
+            "communication": 0,
+            "cost": 7,
+            "availability": 10,
+            "fit": 4
+        },
+        {
+            "name": "Mateusz Bany",
+            "tech": 4,
+            "communication": 8,
+            "cost": 6,
+            "availability": 5,
+            "fit": 0
+        },
+        {
+            "name": "Tola Glenc",
+            "tech": 7,
+            "communication": 6,
+            "cost": 9,
+            "availability": 9,
+            "fit": 9
+        },
+        {
+            "name": "Kamil Winnik",
+            "tech": 4,
+            "communication": 7,
+            "cost": 9,
+            "availability": 5,
+            "fit": 5
+        },
+        {
+            "name": "Kamil Nitek",
+            "tech": 9,
+            "communication": 8,
+            "cost": 3,
+            "availability": 10,
+            "fit": 6
+        },
+        {
+            "name": "Ewelina Samson",
+            "tech": 7,
+            "communication": 5,
+            "cost": 6,
+            "availability": 8,
+            "fit": 4
+        },
+        {
+            "name": "Cyprian Krzempek",
+            "tech": 4,
+            "communication": 2,
+            "cost": 7,
+            "availability": 8,
+            "fit": 10
+        },
+        {
+            "name": "pan Marcin Myk",
+            "tech": 2,
+            "communication": 8,
+            "cost": 8,
+            "availability": 2,
+            "fit": 7
+        },
+        {
+            "name": "Fabian Goworek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 8,
+            "fit": 4
+        },
+        {
+            "name": "pani Inga Miozga",
+            "tech": 7,
+            "communication": 6,
+            "cost": 10,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "pan Marcel Gamoń",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 1,
+            "fit": 9
+        },
+        {
+            "name": "Krystyna Pietrasz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 8,
+            "fit": 10
+        },
+        {
+            "name": "Filip Kolber",
+            "tech": 6,
+            "communication": 5,
+            "cost": 4,
+            "availability": 5,
+            "fit": 8
+        },
+        {
+            "name": "Grzegorz Gumieniak",
+            "tech": 7,
+            "communication": 2,
+            "cost": 8,
+            "availability": 8,
+            "fit": 2
+        },
+        {
+            "name": "Maksymilian Linkiewicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 0,
+            "fit": 8
+        },
+        {
+            "name": "Natan Paluszak",
+            "tech": 7,
+            "communication": 9,
+            "cost": 6,
+            "availability": 1,
+            "fit": 5
+        },
+        {
+            "name": "pani Marcelina Gierasimiuk",
+            "tech": 7,
+            "communication": 1,
+            "cost": 5,
+            "availability": 9,
+            "fit": 5
+        },
+        {
+            "name": "Gabriel Kij",
+            "tech": 0,
+            "communication": 1,
+            "cost": 7,
+            "availability": 1,
+            "fit": 7
+        },
+        {
+            "name": "Hubert Gierek",
+            "tech": 7,
+            "communication": 10,
+            "cost": 2,
+            "availability": 9,
+            "fit": 2
+        },
+        {
+            "name": "pan Artur Zimniak",
+            "tech": 7,
+            "communication": 3,
+            "cost": 5,
+            "availability": 10,
+            "fit": 0
+        },
+        {
+            "name": "Błażej Kopczyk",
+            "tech": 7,
+            "communication": 3,
+            "cost": 6,
+            "availability": 3,
+            "fit": 4
+        },
+        {
+            "name": "Fabian Luberda",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 2,
+            "fit": 10
+        },
+        {
+            "name": "pan Kajetan Drela",
+            "tech": 7,
+            "communication": 3,
+            "cost": 4,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "Mateusz Rajczak",
+            "tech": 5,
+            "communication": 8,
+            "cost": 10,
+            "availability": 6,
+            "fit": 10
+        },
+        {
+            "name": "Sonia Kubasiewicz",
+            "tech": 8,
+            "communication": 5,
+            "cost": 5,
+            "availability": 3,
+            "fit": 6
+        },
+        {
+            "name": "pani Sara Rychert",
+            "tech": 7,
+            "communication": 7,
+            "cost": 7,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "Leon Rejniak",
+            "tech": 0,
+            "communication": 7,
+            "cost": 4,
+            "availability": 5,
+            "fit": 6
+        },
+        {
+            "name": "Maks Roj",
+            "tech": 1,
+            "communication": 1,
+            "cost": 6,
+            "availability": 5,
+            "fit": 9
+        },
+        {
+            "name": "Michał Pakosz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 4,
+            "fit": 8
+        },
+        {
+            "name": "Oliwier Woronko",
+            "tech": 6,
+            "communication": 8,
+            "cost": 6,
+            "availability": 4,
+            "fit": 9
+        },
+        {
+            "name": "Olga Steciuk",
+            "tech": 2,
+            "communication": 8,
+            "cost": 2,
+            "availability": 4,
+            "fit": 6
+        },
+        {
+            "name": "Maksymilian Ziemann",
+            "tech": 7,
+            "communication": 0,
+            "cost": 4,
+            "availability": 4,
+            "fit": 7
+        },
+        {
+            "name": "Ewa Zugaj",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 9,
+            "fit": 1
+        },
+        {
+            "name": "Artur Nastaj",
+            "tech": 7,
+            "communication": 10,
+            "cost": 2,
+            "availability": 7,
+            "fit": 3
+        },
+        {
+            "name": "Olaf Łuczkiewicz",
+            "tech": 7,
+            "communication": 7,
+            "cost": 6,
+            "availability": 10,
+            "fit": 2
+        },
+        {
+            "name": "Eliza Gajzler",
+            "tech": 7,
+            "communication": 3,
+            "cost": 10,
+            "availability": 4,
+            "fit": 1
+        },
+        {
+            "name": "Stefan Mizak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 1,
+            "fit": 6
+        },
+        {
+            "name": "Ignacy Noras",
+            "tech": 1,
+            "communication": 0,
+            "cost": 7,
+            "availability": 9,
+            "fit": 6
+        },
+        {
+            "name": "Dariusz Klyszcz",
+            "tech": 2,
+            "communication": 1,
+            "cost": 4,
+            "availability": 0,
+            "fit": 1
+        },
+        {
+            "name": "pani Kamila Zysk",
+            "tech": 9,
+            "communication": 0,
+            "cost": 2,
+            "availability": 5,
+            "fit": 5
+        },
+        {
+            "name": "pani Anita Grzech",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 9,
+            "fit": 0
+        },
+        {
+            "name": "Dorota Palak",
+            "tech": 7,
+            "communication": 4,
+            "cost": 3,
+            "availability": 0,
+            "fit": 6
+        },
+        {
+            "name": "Leonard Behrendt",
+            "tech": 7,
+            "communication": 0,
+            "cost": 2,
+            "availability": 7,
+            "fit": 10
+        },
+        {
+            "name": "pani Dagmara Dusik",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 8,
+            "fit": 9
+        },
+        {
+            "name": "Wojciech Igras",
+            "tech": 7,
+            "communication": 6,
+            "cost": 9,
+            "availability": 3,
+            "fit": 1
+        },
+        {
+            "name": "pani Nela Góraj",
+            "tech": 7,
+            "communication": 0,
+            "cost": 4,
+            "availability": 4,
+            "fit": 7
+        },
+        {
+            "name": "pan Bartek Pacyga",
+            "tech": 4,
+            "communication": 5,
+            "cost": 9,
+            "availability": 10,
+            "fit": 6
+        },
+        {
+            "name": "pan Oskar Ferdyn",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 6,
+            "fit": 6
+        },
+        {
+            "name": "Anastazja Kałek",
+            "tech": 5,
+            "communication": 8,
+            "cost": 4,
+            "availability": 5,
+            "fit": 2
+        },
+        {
+            "name": "Angelika Karpiak",
+            "tech": 7,
+            "communication": 0,
+            "cost": 3,
+            "availability": 3,
+            "fit": 7
+        },
+        {
+            "name": "Lidia Kowara",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 9,
+            "fit": 9
+        },
+        {
+            "name": "Nataniel Miękina",
+            "tech": 9,
+            "communication": 8,
+            "cost": 5,
+            "availability": 4,
+            "fit": 0
+        },
+        {
+            "name": "pan Marcin Bereś",
+            "tech": 7,
+            "communication": 6,
+            "cost": 3,
+            "availability": 1,
+            "fit": 5
+        },
+        {
+            "name": "Rafał Małyszka",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 1,
+            "fit": 6
+        },
+        {
+            "name": "Jacek Kazana",
+            "tech": 7,
+            "communication": 5,
+            "cost": 7,
+            "availability": 9,
+            "fit": 4
+        },
+        {
+            "name": "pani Inga Fitas",
+            "tech": 4,
+            "communication": 8,
+            "cost": 10,
+            "availability": 8,
+            "fit": 5
+        },
+        {
+            "name": "Wiktor Orzeszek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 0,
+            "fit": 0
+        },
+        {
+            "name": "pani Sandra Śledzik",
+            "tech": 0,
+            "communication": 2,
+            "cost": 4,
+            "availability": 3,
+            "fit": 7
+        },
+        {
+            "name": "pani Sandra Uziębło",
+            "tech": 7,
+            "communication": 2,
+            "cost": 6,
+            "availability": 8,
+            "fit": 7
+        },
+        {
+            "name": "Monika Karczmarek",
+            "tech": 7,
+            "communication": 7,
+            "cost": 2,
+            "availability": 0,
+            "fit": 1
+        },
+        {
+            "name": "Cyprian Ciepła",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 6,
+            "fit": 6
+        },
+        {
+            "name": "Marek Gałat",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 9,
+            "fit": 8
+        },
+        {
+            "name": "Ewa Kiełbus",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 10,
+            "fit": 1
+        },
+        {
+            "name": "Aurelia Żelazo",
+            "tech": 6,
+            "communication": 2,
+            "cost": 3,
+            "availability": 5,
+            "fit": 9
+        },
+        {
+            "name": "Stefan Biegała",
+            "tech": 7,
+            "communication": 0,
+            "cost": 4,
+            "availability": 4,
+            "fit": 7
+        },
+        {
+            "name": "Daniel Zimmer",
+            "tech": 2,
+            "communication": 5,
+            "cost": 3,
+            "availability": 3,
+            "fit": 8
+        },
+        {
+            "name": "Norbert Wiciak",
+            "tech": 4,
+            "communication": 8,
+            "cost": 7,
+            "availability": 9,
+            "fit": 0
+        },
+        {
+            "name": "Kacper Leoniak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 6,
+            "fit": 8
+        },
+        {
+            "name": "Marika Ficoń",
+            "tech": 7,
+            "communication": 5,
+            "cost": 7,
+            "availability": 3,
+            "fit": 4
+        },
+        {
+            "name": "Emil Berg",
+            "tech": 5,
+            "communication": 3,
+            "cost": 8,
+            "availability": 1,
+            "fit": 0
+        },
+        {
+            "name": "Dominik Halama",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 8,
+            "fit": 4
+        },
+        {
+            "name": "Mikołaj Woszczyna",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 3,
+            "fit": 7
+        },
+        {
+            "name": "Tola Kręgiel",
+            "tech": 7,
+            "communication": 6,
+            "cost": 9,
+            "availability": 10,
+            "fit": 7
+        },
+        {
+            "name": "pani Lidia Bakun",
+            "tech": 1,
+            "communication": 3,
+            "cost": 7,
+            "availability": 8,
+            "fit": 0
+        },
+        {
+            "name": "Maurycy Zaucha",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 0,
+            "fit": 6
+        },
+        {
+            "name": "Sebastian Sysło",
+            "tech": 5,
+            "communication": 8,
+            "cost": 5,
+            "availability": 8,
+            "fit": 6
+        },
+        {
+            "name": "Maciej Zieja",
+            "tech": 9,
+            "communication": 8,
+            "cost": 4,
+            "availability": 2,
+            "fit": 10
+        },
+        {
+            "name": "Adrianna Patoka",
+            "tech": 8,
+            "communication": 8,
+            "cost": 2,
+            "availability": 2,
+            "fit": 0
+        },
+        {
+            "name": "Wiktor Zimoląg",
+            "tech": 3,
+            "communication": 2,
+            "cost": 3,
+            "availability": 8,
+            "fit": 2
+        },
+        {
+            "name": "Nicole Kopik",
+            "tech": 9,
+            "communication": 4,
+            "cost": 4,
+            "availability": 2,
+            "fit": 6
+        },
+        {
+            "name": "Anna Maria Łachacz",
+            "tech": 2,
+            "communication": 9,
+            "cost": 6,
+            "availability": 10,
+            "fit": 2
+        },
+        {
+            "name": "pani Angelika Garbaciak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 4,
+            "fit": 0
+        },
+        {
+            "name": "Sebastian Ciechowicz",
+            "tech": 4,
+            "communication": 0,
+            "cost": 5,
+            "availability": 1,
+            "fit": 9
+        },
+        {
+            "name": "Maurycy Fita",
+            "tech": 4,
+            "communication": 10,
+            "cost": 9,
+            "availability": 1,
+            "fit": 3
+        },
+        {
+            "name": "Leon Capiga",
+            "tech": 7,
+            "communication": 9,
+            "cost": 3,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "pani Ada Porwoł",
+            "tech": 7,
+            "communication": 7,
+            "cost": 3,
+            "availability": 10,
+            "fit": 10
+        },
+        {
+            "name": "Kaja Obiała",
+            "tech": 7,
+            "communication": 4,
+            "cost": 3,
+            "availability": 3,
+            "fit": 3
+        },
+        {
+            "name": "Róża Tomal",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 1,
+            "fit": 4
+        },
+        {
+            "name": "pani Elżbieta Pasierbek",
+            "tech": 6,
+            "communication": 8,
+            "cost": 7,
+            "availability": 7,
+            "fit": 9
+        },
+        {
+            "name": "Maksymilian Lenc",
+            "tech": 7,
+            "communication": 5,
+            "cost": 8,
+            "availability": 9,
+            "fit": 3
+        },
+        {
+            "name": "pan Mateusz Jasica",
+            "tech": 7,
+            "communication": 10,
+            "cost": 9,
+            "availability": 6,
+            "fit": 1
+        },
+        {
+            "name": "Bianka Bartoś",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 4,
+            "fit": 3
+        },
+        {
+            "name": "Norbert Porwoł",
+            "tech": 7,
+            "communication": 6,
+            "cost": 6,
+            "availability": 10,
+            "fit": 0
+        },
+        {
+            "name": "pan Franciszek Gebauer",
+            "tech": 7,
+            "communication": 7,
+            "cost": 10,
+            "availability": 2,
+            "fit": 2
+        },
+        {
+            "name": "Filip Heinrich",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 4,
+            "fit": 1
+        },
+        {
+            "name": "pan Olaf Fraszczyk",
+            "tech": 5,
+            "communication": 10,
+            "cost": 7,
+            "availability": 9,
+            "fit": 2
+        },
+        {
+            "name": "Sylwia Twardosz",
+            "tech": 7,
+            "communication": 6,
+            "cost": 3,
+            "availability": 9,
+            "fit": 4
+        },
+        {
+            "name": "pan Bartek Hamrol",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 9,
+            "fit": 3
+        },
+        {
+            "name": "Elżbieta Kostek",
+            "tech": 2,
+            "communication": 8,
+            "cost": 3,
+            "availability": 1,
+            "fit": 0
+        },
+        {
+            "name": "Paweł Dziurdzia",
+            "tech": 7,
+            "communication": 5,
+            "cost": 10,
+            "availability": 2,
+            "fit": 9
+        },
+        {
+            "name": "Patryk Sobstyl",
+            "tech": 10,
+            "communication": 10,
+            "cost": 3,
+            "availability": 4,
+            "fit": 10
+        },
+        {
+            "name": "Marcin Konstanty",
+            "tech": 9,
+            "communication": 8,
+            "cost": 3,
+            "availability": 4,
+            "fit": 2
+        },
+        {
+            "name": "pan Kamil Szaruga",
+            "tech": 7,
+            "communication": 10,
+            "cost": 6,
+            "availability": 7,
+            "fit": 6
+        },
+        {
+            "name": "Dagmara Wołoszyk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 5,
+            "fit": 8
+        },
+        {
+            "name": "pan Tadeusz Bejm",
+            "tech": 0,
+            "communication": 8,
+            "cost": 6,
+            "availability": 7,
+            "fit": 9
+        },
+        {
+            "name": "pan Józef Witaszek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 10,
+            "fit": 7
+        },
+        {
+            "name": "pani Anastazja Osica",
+            "tech": 9,
+            "communication": 8,
+            "cost": 3,
+            "availability": 4,
+            "fit": 8
+        },
+        {
+            "name": "Oskar Szłapa",
+            "tech": 0,
+            "communication": 8,
+            "cost": 9,
+            "availability": 7,
+            "fit": 2
+        },
+        {
+            "name": "Nataniel Stoltman",
+            "tech": 7,
+            "communication": 5,
+            "cost": 2,
+            "availability": 8,
+            "fit": 4
+        },
+        {
+            "name": "pani Agnieszka Sommerfeld",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 1,
+            "fit": 8
+        },
+        {
+            "name": "Norbert Mitek",
+            "tech": 7,
+            "communication": 2,
+            "cost": 10,
+            "availability": 5,
+            "fit": 4
+        },
+        {
+            "name": "Borys Cyroń",
+            "tech": 7,
+            "communication": 7,
+            "cost": 3,
+            "availability": 0,
+            "fit": 7
+        },
+        {
+            "name": "Dagmara Joszko",
+            "tech": 0,
+            "communication": 10,
+            "cost": 9,
+            "availability": 8,
+            "fit": 1
+        },
+        {
+            "name": "Oskar Kajak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 3,
+            "fit": 5
+        },
+        {
+            "name": "pani Gaja Krzyśko",
+            "tech": 10,
+            "communication": 8,
+            "cost": 10,
+            "availability": 7,
+            "fit": 4
+        },
+        {
+            "name": "pani Anastazja Pacyga",
+            "tech": 1,
+            "communication": 6,
+            "cost": 9,
+            "availability": 0,
+            "fit": 0
+        },
+        {
+            "name": "Andrzej Michnowicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "pani Olga Bobko",
+            "tech": 3,
+            "communication": 0,
+            "cost": 7,
+            "availability": 7,
+            "fit": 5
+        },
+        {
+            "name": "Adrianna Kolonko",
+            "tech": 4,
+            "communication": 8,
+            "cost": 5,
+            "availability": 8,
+            "fit": 9
+        },
+        {
+            "name": "Artur Pęksa",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 4,
+            "fit": 6
+        },
+        {
+            "name": "Dominik Hubert",
+            "tech": 7,
+            "communication": 5,
+            "cost": 5,
+            "availability": 3,
+            "fit": 9
+        },
+        {
+            "name": "pan Maksymilian Sroga",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 5,
+            "fit": 0
+        },
+        {
+            "name": "pan Maurycy Kosałka",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 0,
+            "fit": 3
+        },
+        {
+            "name": "Dagmara Kopyto",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 7,
+            "fit": 3
+        },
+        {
+            "name": "Emil Aleksa",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 0,
+            "fit": 2
+        },
+        {
+            "name": "pani Sara Wenzel",
+            "tech": 7,
+            "communication": 0,
+            "cost": 9,
+            "availability": 7,
+            "fit": 7
+        },
+        {
+            "name": "Maciej Nickel",
+            "tech": 1,
+            "communication": 0,
+            "cost": 10,
+            "availability": 5,
+            "fit": 2
+        },
+        {
+            "name": "Karol Martyka",
+            "tech": 7,
+            "communication": 9,
+            "cost": 4,
+            "availability": 2,
+            "fit": 2
+        },
+        {
+            "name": "Ksawery Czerepak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 4,
+            "fit": 0
+        },
+        {
+            "name": "pani Angelika Hallmann",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 2,
+            "fit": 0
+        },
+        {
+            "name": "pani Marianna Jędrzejek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 7,
+            "fit": 8
+        },
+        {
+            "name": "Franciszek Nickel",
+            "tech": 10,
+            "communication": 8,
+            "cost": 6,
+            "availability": 9,
+            "fit": 0
+        },
+        {
+            "name": "pan Bruno Dering",
+            "tech": 7,
+            "communication": 6,
+            "cost": 5,
+            "availability": 6,
+            "fit": 6
+        },
+        {
+            "name": "pani Urszula Goworek",
+            "tech": 9,
+            "communication": 8,
+            "cost": 10,
+            "availability": 8,
+            "fit": 4
+        },
+        {
+            "name": "Dagmara Kolbusz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 6,
+            "fit": 0
+        },
+        {
+            "name": "pan Jakub Bogdał",
+            "tech": 2,
+            "communication": 8,
+            "cost": 7,
+            "availability": 3,
+            "fit": 9
+        },
+        {
+            "name": "Witold Nieścior",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 0,
+            "fit": 8
+        },
+        {
+            "name": "pan Kornel Pakosz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 3,
+            "fit": 10
+        },
+        {
+            "name": "pan Franciszek Goj",
+            "tech": 7,
+            "communication": 5,
+            "cost": 10,
+            "availability": 6,
+            "fit": 2
+        },
+        {
+            "name": "Urszula Żołnierczyk",
+            "tech": 6,
+            "communication": 8,
+            "cost": 7,
+            "availability": 1,
+            "fit": 6
+        },
+        {
+            "name": "Ignacy Malcharek",
+            "tech": 2,
+            "communication": 2,
+            "cost": 6,
+            "availability": 9,
+            "fit": 6
+        },
+        {
+            "name": "Alan Buksa",
+            "tech": 0,
+            "communication": 8,
+            "cost": 10,
+            "availability": 9,
+            "fit": 6
+        },
+        {
+            "name": "pan Marek Rodzeń",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 6,
+            "fit": 6
+        },
+        {
+            "name": "Cyprian Rząd",
+            "tech": 8,
+            "communication": 6,
+            "cost": 4,
+            "availability": 6,
+            "fit": 9
+        },
+        {
+            "name": "Gaja Rubaj",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 0,
+            "fit": 4
+        },
+        {
+            "name": "Jerzy Kubowicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 9,
+            "fit": 0
+        },
+        {
+            "name": "Kornelia Litewka",
+            "tech": 7,
+            "communication": 2,
+            "cost": 9,
+            "availability": 1,
+            "fit": 4
+        },
+        {
+            "name": "Robert Tekiela",
+            "tech": 3,
+            "communication": 8,
+            "cost": 7,
+            "availability": 6,
+            "fit": 9
+        },
+        {
+            "name": "Elżbieta Koman",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 10,
+            "fit": 3
+        },
+        {
+            "name": "pani Sandra Nurek",
+            "tech": 10,
+            "communication": 8,
+            "cost": 3,
+            "availability": 10,
+            "fit": 3
+        },
+        {
+            "name": "Marcin Kurzyna",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 9,
+            "fit": 4
+        },
+        {
+            "name": "Kaja Neska",
+            "tech": 9,
+            "communication": 3,
+            "cost": 3,
+            "availability": 7,
+            "fit": 1
+        },
+        {
+            "name": "Ida Gryga",
+            "tech": 7,
+            "communication": 3,
+            "cost": 4,
+            "availability": 6,
+            "fit": 0
+        },
+        {
+            "name": "Kajetan Rezmer",
+            "tech": 0,
+            "communication": 0,
+            "cost": 7,
+            "availability": 10,
+            "fit": 0
+        },
+        {
+            "name": "Mikołaj Poleszak",
+            "tech": 6,
+            "communication": 4,
+            "cost": 7,
+            "availability": 3,
+            "fit": 0
+        },
+        {
+            "name": "pani Inga Grądziel",
+            "tech": 0,
+            "communication": 5,
+            "cost": 2,
+            "availability": 2,
+            "fit": 6
+        },
+        {
+            "name": "pan Witold Bodek",
+            "tech": 7,
+            "communication": 0,
+            "cost": 6,
+            "availability": 2,
+            "fit": 6
+        },
+        {
+            "name": "Nela Fidura",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 8,
+            "fit": 6
+        },
+        {
+            "name": "Kajetan Szott",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 9,
+            "fit": 0
+        },
+        {
+            "name": "Oliwier Cudzich",
+            "tech": 3,
+            "communication": 4,
+            "cost": 9,
+            "availability": 1,
+            "fit": 9
+        },
+        {
+            "name": "pani Anna Maria Flieger",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 3,
+            "fit": 3
+        },
+        {
+            "name": "pani Ida Dziełak",
+            "tech": 7,
+            "communication": 2,
+            "cost": 9,
+            "availability": 2,
+            "fit": 9
+        },
+        {
+            "name": "Borys Zięciak",
+            "tech": 2,
+            "communication": 8,
+            "cost": 4,
+            "availability": 4,
+            "fit": 6
+        },
+        {
+            "name": "pani Justyna Bełz",
+            "tech": 2,
+            "communication": 10,
+            "cost": 6,
+            "availability": 0,
+            "fit": 4
+        },
+        {
+            "name": "Piotr Lesisz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 6,
+            "fit": 10
+        },
+        {
+            "name": "pan Radosław Gogacz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 4,
+            "fit": 9
+        },
+        {
+            "name": "Mariusz Łaskawiec",
+            "tech": 7,
+            "communication": 2,
+            "cost": 2,
+            "availability": 7,
+            "fit": 5
+        },
+        {
+            "name": "Patryk Suchojad",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 2,
+            "fit": 3
+        },
+        {
+            "name": "Monika Rduch",
+            "tech": 7,
+            "communication": 3,
+            "cost": 6,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "Witold Siemek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 8,
+            "fit": 8
+        },
+        {
+            "name": "pani Agnieszka Heleniak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 4,
+            "fit": 7
+        },
+        {
+            "name": "Marcin Krzykała",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 4,
+            "fit": 0
+        },
+        {
+            "name": "pan Filip Fołta",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 3,
+            "fit": 4
+        },
+        {
+            "name": "Sandra Golenia",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 6,
+            "fit": 7
+        },
+        {
+            "name": "Gaja Jałowiec",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 7,
+            "fit": 7
+        },
+        {
+            "name": "Marcel Strzępek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 4,
+            "fit": 2
+        },
+        {
+            "name": "Daniel Zegadło",
+            "tech": 7,
+            "communication": 5,
+            "cost": 7,
+            "availability": 6,
+            "fit": 10
+        },
+        {
+            "name": "Patryk Petrus",
+            "tech": 6,
+            "communication": 10,
+            "cost": 8,
+            "availability": 4,
+            "fit": 0
+        },
+        {
+            "name": "pan Maciej Szok",
+            "tech": 7,
+            "communication": 10,
+            "cost": 2,
+            "availability": 4,
+            "fit": 2
+        },
+        {
+            "name": "Sonia Mikusek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 4,
+            "fit": 1
+        },
+        {
+            "name": "Marianna Mrozowicz",
+            "tech": 7,
+            "communication": 1,
+            "cost": 10,
+            "availability": 6,
+            "fit": 4
+        },
+        {
+            "name": "Natasza Zimmer",
+            "tech": 9,
+            "communication": 0,
+            "cost": 2,
+            "availability": 10,
+            "fit": 8
+        },
+        {
+            "name": "Maurycy Miros",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 5,
+            "fit": 6
+        },
+        {
+            "name": "Elżbieta Lepka",
+            "tech": 6,
+            "communication": 8,
+            "cost": 5,
+            "availability": 10,
+            "fit": 2
+        },
+        {
+            "name": "Stefan Rzeźniczak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 2,
+            "fit": 4
+        },
+        {
+            "name": "Grzegorz Wawrzyczek",
+            "tech": 8,
+            "communication": 8,
+            "cost": 10,
+            "availability": 8,
+            "fit": 1
+        },
+        {
+            "name": "pani Elżbieta Brańka",
+            "tech": 5,
+            "communication": 3,
+            "cost": 9,
+            "availability": 1,
+            "fit": 9
+        },
+        {
+            "name": "Kaja Sadura",
+            "tech": 10,
+            "communication": 9,
+            "cost": 8,
+            "availability": 3,
+            "fit": 1
+        },
+        {
+            "name": "Konrad Engel",
+            "tech": 7,
+            "communication": 6,
+            "cost": 10,
+            "availability": 8,
+            "fit": 10
+        },
+        {
+            "name": "Kaja Siedlik",
+            "tech": 7,
+            "communication": 3,
+            "cost": 6,
+            "availability": 9,
+            "fit": 9
+        },
+        {
+            "name": "Błażej Słupik",
+            "tech": 7,
+            "communication": 7,
+            "cost": 7,
+            "availability": 0,
+            "fit": 2
+        },
+        {
+            "name": "Ksawery Majnusz",
+            "tech": 10,
+            "communication": 2,
+            "cost": 3,
+            "availability": 1,
+            "fit": 8
+        },
+        {
+            "name": "pan Karol Gasz",
+            "tech": 1,
+            "communication": 8,
+            "cost": 4,
+            "availability": 3,
+            "fit": 3
+        },
+        {
+            "name": "Gabriel Grzeszkowiak",
+            "tech": 2,
+            "communication": 9,
+            "cost": 3,
+            "availability": 6,
+            "fit": 2
+        },
+        {
+            "name": "Bartek Stebel",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 1,
+            "fit": 10
+        },
+        {
+            "name": "pani Urszula Miotke",
+            "tech": 7,
+            "communication": 0,
+            "cost": 5,
+            "availability": 8,
+            "fit": 0
+        },
+        {
+            "name": "Piotr Radzewicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 6,
+            "fit": 5
+        },
+        {
+            "name": "Artur Gąszczak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 9,
+            "fit": 1
+        },
+        {
+            "name": "Jacek Domurad",
+            "tech": 3,
+            "communication": 1,
+            "cost": 10,
+            "availability": 3,
+            "fit": 1
+        },
+        {
+            "name": "pan Olaf Sabała",
+            "tech": 7,
+            "communication": 3,
+            "cost": 7,
+            "availability": 10,
+            "fit": 0
+        },
+        {
+            "name": "Jan Łągiewka",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 3,
+            "fit": 0
+        },
+        {
+            "name": "pan Paweł Czupryn",
+            "tech": 4,
+            "communication": 8,
+            "cost": 9,
+            "availability": 6,
+            "fit": 8
+        },
+        {
+            "name": "Filip Wieja",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 4,
+            "fit": 1
+        },
+        {
+            "name": "Mikołaj Dmoch",
+            "tech": 8,
+            "communication": 2,
+            "cost": 8,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "pani Dorota Tylka",
+            "tech": 6,
+            "communication": 4,
+            "cost": 8,
+            "availability": 10,
+            "fit": 0
+        },
+        {
+            "name": "Nataniel Wiewiórka",
+            "tech": 2,
+            "communication": 8,
+            "cost": 3,
+            "availability": 9,
+            "fit": 0
+        },
+        {
+            "name": "Julian Myrcha",
+            "tech": 7,
+            "communication": 1,
+            "cost": 9,
+            "availability": 0,
+            "fit": 6
+        },
+        {
+            "name": "Ada Gietka",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 2,
+            "fit": 1
+        },
+        {
+            "name": "Borys Kazimierczyk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 6,
+            "fit": 6
+        },
+        {
+            "name": "Angelika Popielarczyk",
+            "tech": 7,
+            "communication": 7,
+            "cost": 3,
+            "availability": 7,
+            "fit": 0
+        },
+        {
+            "name": "Liwia Owsiak",
+            "tech": 10,
+            "communication": 8,
+            "cost": 9,
+            "availability": 9,
+            "fit": 1
+        },
+        {
+            "name": "Nela Kocaj",
+            "tech": 7,
+            "communication": 4,
+            "cost": 2,
+            "availability": 1,
+            "fit": 9
+        },
+        {
+            "name": "Alan Barcz",
+            "tech": 7,
+            "communication": 1,
+            "cost": 8,
+            "availability": 7,
+            "fit": 10
+        },
+        {
+            "name": "Szymon Majdan",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 1,
+            "fit": 0
+        },
+        {
+            "name": "Marianna Bryndza",
+            "tech": 7,
+            "communication": 0,
+            "cost": 10,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "Aleks Brzykcy",
+            "tech": 7,
+            "communication": 4,
+            "cost": 7,
+            "availability": 10,
+            "fit": 9
+        },
+        {
+            "name": "Stanisław Pyza",
+            "tech": 7,
+            "communication": 9,
+            "cost": 8,
+            "availability": 8,
+            "fit": 3
+        },
+        {
+            "name": "Jacek Mosiołek",
+            "tech": 7,
+            "communication": 7,
+            "cost": 5,
+            "availability": 10,
+            "fit": 6
+        },
+        {
+            "name": "Marika Kuzior",
+            "tech": 7,
+            "communication": 2,
+            "cost": 8,
+            "availability": 7,
+            "fit": 7
+        },
+        {
+            "name": "Kazimierz Wijata",
+            "tech": 7,
+            "communication": 6,
+            "cost": 2,
+            "availability": 7,
+            "fit": 9
+        },
+        {
+            "name": "Janina Drobny",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 3,
+            "fit": 9
+        },
+        {
+            "name": "Kaja Słomiany",
+            "tech": 7,
+            "communication": 0,
+            "cost": 5,
+            "availability": 4,
+            "fit": 0
+        },
+        {
+            "name": "Marianna Piaścik",
+            "tech": 7,
+            "communication": 0,
+            "cost": 6,
+            "availability": 0,
+            "fit": 8
+        },
+        {
+            "name": "pani Ewa Citko",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 4,
+            "fit": 10
+        },
+        {
+            "name": "pan Juliusz Janczura",
+            "tech": 6,
+            "communication": 8,
+            "cost": 9,
+            "availability": 10,
+            "fit": 5
+        },
+        {
+            "name": "pani Eliza Królikiewicz",
+            "tech": 7,
+            "communication": 2,
+            "cost": 2,
+            "availability": 6,
+            "fit": 3
+        },
+        {
+            "name": "Olgierd Wałdoch",
+            "tech": 7,
+            "communication": 2,
+            "cost": 5,
+            "availability": 3,
+            "fit": 0
+        },
+        {
+            "name": "Ada Wośko",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 9,
+            "fit": 6
+        },
+        {
+            "name": "pani Julita Macioł",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 1,
+            "fit": 10
+        },
+        {
+            "name": "Sylwia Kustosz",
+            "tech": 3,
+            "communication": 8,
+            "cost": 4,
+            "availability": 10,
+            "fit": 9
+        },
+        {
+            "name": "Kamil Gryska",
+            "tech": 7,
+            "communication": 4,
+            "cost": 5,
+            "availability": 7,
+            "fit": 9
+        },
+        {
+            "name": "pani Blanka Kopyść",
+            "tech": 7,
+            "communication": 0,
+            "cost": 9,
+            "availability": 10,
+            "fit": 9
+        },
+        {
+            "name": "Kacper Wójt",
+            "tech": 7,
+            "communication": 2,
+            "cost": 3,
+            "availability": 7,
+            "fit": 2
+        },
+        {
+            "name": "Miłosz Wysota",
+            "tech": 7,
+            "communication": 4,
+            "cost": 8,
+            "availability": 10,
+            "fit": 9
+        },
+        {
+            "name": "Dagmara Kołata",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 9,
+            "fit": 0
+        },
+        {
+            "name": "Marcel Litwiniuk",
+            "tech": 9,
+            "communication": 10,
+            "cost": 10,
+            "availability": 7,
+            "fit": 6
+        },
+        {
+            "name": "Janina Kapral",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 8,
+            "fit": 4
+        },
+        {
+            "name": "Sandra Muzyk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 6,
+            "fit": 6
+        },
+        {
+            "name": "Adam Pawela",
+            "tech": 7,
+            "communication": 0,
+            "cost": 3,
+            "availability": 9,
+            "fit": 4
+        },
+        {
+            "name": "Juliusz Kubów",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 0,
+            "fit": 3
+        },
+        {
+            "name": "Krystian Tomys",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 4,
+            "fit": 1
+        },
+        {
+            "name": "Sylwia Heinrich",
+            "tech": 7,
+            "communication": 7,
+            "cost": 10,
+            "availability": 6,
+            "fit": 0
+        },
+        {
+            "name": "Monika Lubera",
+            "tech": 7,
+            "communication": 4,
+            "cost": 7,
+            "availability": 4,
+            "fit": 8
+        },
+        {
+            "name": "Borys Szymajda",
+            "tech": 7,
+            "communication": 4,
+            "cost": 6,
+            "availability": 7,
+            "fit": 9
+        },
+        {
+            "name": "pan Tadeusz Morys",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 2,
+            "fit": 10
+        },
+        {
+            "name": "pani Elżbieta Rodzeń",
+            "tech": 7,
+            "communication": 5,
+            "cost": 9,
+            "availability": 8,
+            "fit": 6
+        },
+        {
+            "name": "Antoni Dzika",
+            "tech": 9,
+            "communication": 1,
+            "cost": 2,
+            "availability": 9,
+            "fit": 2
+        },
+        {
+            "name": "Stefan Matyjas",
+            "tech": 7,
+            "communication": 7,
+            "cost": 5,
+            "availability": 5,
+            "fit": 3
+        },
+        {
+            "name": "Alex Jakubaszek",
+            "tech": 7,
+            "communication": 2,
+            "cost": 4,
+            "availability": 5,
+            "fit": 3
+        },
+        {
+            "name": "pani Natasza Szyca",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 5,
+            "fit": 6
+        },
+        {
+            "name": "Justyna Szwaj",
+            "tech": 7,
+            "communication": 10,
+            "cost": 9,
+            "availability": 4,
+            "fit": 2
+        },
+        {
+            "name": "Jan Rębiś",
+            "tech": 7,
+            "communication": 10,
+            "cost": 9,
+            "availability": 1,
+            "fit": 9
+        },
+        {
+            "name": "Tadeusz Gniewek",
+            "tech": 9,
+            "communication": 9,
+            "cost": 3,
+            "availability": 9,
+            "fit": 6
+        },
+        {
+            "name": "Nela Plebanek",
+            "tech": 1,
+            "communication": 3,
+            "cost": 7,
+            "availability": 0,
+            "fit": 3
+        },
+        {
+            "name": "Jacek Leszkiewicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 5,
+            "fit": 7
+        },
+        {
+            "name": "Blanka Jędrzejek",
+            "tech": 7,
+            "communication": 6,
+            "cost": 7,
+            "availability": 2,
+            "fit": 10
+        },
+        {
+            "name": "Kazimierz Kiljan",
+            "tech": 3,
+            "communication": 8,
+            "cost": 10,
+            "availability": 8,
+            "fit": 1
+        },
+        {
+            "name": "Tadeusz Gołas",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 9,
+            "fit": 5
+        },
+        {
+            "name": "Jędrzej Dybiec",
+            "tech": 5,
+            "communication": 5,
+            "cost": 5,
+            "availability": 5,
+            "fit": 5
+        },
+        {
+            "name": "Robert Wons",
+            "tech": 7,
+            "communication": 1,
+            "cost": 9,
+            "availability": 10,
+            "fit": 5
+        },
+        {
+            "name": "Ernest Milczarczyk",
+            "tech": 3,
+            "communication": 6,
+            "cost": 4,
+            "availability": 1,
+            "fit": 7
+        },
+        {
+            "name": "Eliza Łukowicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 7,
+            "fit": 10
+        },
+        {
+            "name": "Albert Gołas",
+            "tech": 7,
+            "communication": 3,
+            "cost": 10,
+            "availability": 7,
+            "fit": 9
+        },
+        {
+            "name": "Wojciech Gwara",
+            "tech": 7,
+            "communication": 1,
+            "cost": 10,
+            "availability": 10,
+            "fit": 2
+        },
+        {
+            "name": "Gabriel Swacha",
+            "tech": 7,
+            "communication": 0,
+            "cost": 4,
+            "availability": 6,
+            "fit": 2
+        },
+        {
+            "name": "pani Agnieszka Grzebyk",
+            "tech": 10,
+            "communication": 8,
+            "cost": 9,
+            "availability": 2,
+            "fit": 8
+        },
+        {
+            "name": "Anna Maria Czosnyka",
+            "tech": 7,
+            "communication": 6,
+            "cost": 5,
+            "availability": 0,
+            "fit": 4
+        },
+        {
+            "name": "Rozalia Pacholak",
+            "tech": 9,
+            "communication": 8,
+            "cost": 8,
+            "availability": 5,
+            "fit": 0
+        },
+        {
+            "name": "Julianna Berdzik",
+            "tech": 5,
+            "communication": 0,
+            "cost": 6,
+            "availability": 1,
+            "fit": 7
+        },
+        {
+            "name": "Gabriel Słabosz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 9,
+            "fit": 3
+        },
+        {
+            "name": "Jan Wężyk",
+            "tech": 4,
+            "communication": 8,
+            "cost": 5,
+            "availability": 3,
+            "fit": 1
+        },
+        {
+            "name": "pan Dariusz Stuglik",
+            "tech": 7,
+            "communication": 1,
+            "cost": 2,
+            "availability": 9,
+            "fit": 8
+        },
+        {
+            "name": "Kornel Trzop",
+            "tech": 3,
+            "communication": 8,
+            "cost": 5,
+            "availability": 9,
+            "fit": 2
+        },
+        {
+            "name": "pani Karina Bancerz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 9,
+            "fit": 7
+        },
+        {
+            "name": "Anita Śliż",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 7,
+            "fit": 0
+        },
+        {
+            "name": "Rozalia Gierak",
+            "tech": 10,
+            "communication": 8,
+            "cost": 2,
+            "availability": 0,
+            "fit": 0
+        },
+        {
+            "name": "Konrad Strzała",
+            "tech": 7,
+            "communication": 4,
+            "cost": 2,
+            "availability": 10,
+            "fit": 6
+        },
+        {
+            "name": "Aurelia Wajdzik",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 2,
+            "fit": 8
+        },
+        {
+            "name": "Jędrzej Bogumił",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 6,
+            "fit": 9
+        },
+        {
+            "name": "pani Ewa Kędziorek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 7,
+            "fit": 2
+        },
+        {
+            "name": "Maciej Szumacher",
+            "tech": 0,
+            "communication": 5,
+            "cost": 2,
+            "availability": 1,
+            "fit": 2
+        },
+        {
+            "name": "pan Maurycy Cieplucha",
+            "tech": 7,
+            "communication": 4,
+            "cost": 2,
+            "availability": 10,
+            "fit": 2
+        },
+        {
+            "name": "Bartek Wijata",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 2,
+            "fit": 3
+        },
+        {
+            "name": "pani Anita Stanisławczyk",
+            "tech": 7,
+            "communication": 2,
+            "cost": 5,
+            "availability": 5,
+            "fit": 3
+        },
+        {
+            "name": "Maciej Kozica",
+            "tech": 7,
+            "communication": 10,
+            "cost": 10,
+            "availability": 5,
+            "fit": 10
+        },
+        {
+            "name": "Agnieszka Kołak",
+            "tech": 7,
+            "communication": 7,
+            "cost": 9,
+            "availability": 0,
+            "fit": 2
+        },
+        {
+            "name": "Cyprian Imiela",
+            "tech": 7,
+            "communication": 3,
+            "cost": 4,
+            "availability": 4,
+            "fit": 5
+        },
+        {
+            "name": "Lidia Kasperczak",
+            "tech": 2,
+            "communication": 8,
+            "cost": 6,
+            "availability": 0,
+            "fit": 2
+        },
+        {
+            "name": "Józef Potok",
+            "tech": 8,
+            "communication": 4,
+            "cost": 9,
+            "availability": 10,
+            "fit": 4
+        },
+        {
+            "name": "pan Kazimierz Ostapiuk",
+            "tech": 7,
+            "communication": 9,
+            "cost": 5,
+            "availability": 10,
+            "fit": 5
+        },
+        {
+            "name": "Leonard Huczko",
+            "tech": 6,
+            "communication": 9,
+            "cost": 9,
+            "availability": 0,
+            "fit": 3
+        },
+        {
+            "name": "Adam Raszkiewicz",
+            "tech": 7,
+            "communication": 5,
+            "cost": 7,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "Wojciech Roś",
+            "tech": 7,
+            "communication": 4,
+            "cost": 4,
+            "availability": 10,
+            "fit": 7
+        },
+        {
+            "name": "Aleksander Mirończuk",
+            "tech": 9,
+            "communication": 7,
+            "cost": 6,
+            "availability": 3,
+            "fit": 3
+        },
+        {
+            "name": "Oskar Pysz",
+            "tech": 7,
+            "communication": 3,
+            "cost": 6,
+            "availability": 0,
+            "fit": 3
+        },
+        {
+            "name": "Marianna Garbacik",
+            "tech": 4,
+            "communication": 5,
+            "cost": 5,
+            "availability": 0,
+            "fit": 0
+        },
+        {
+            "name": "Albert Oszust",
+            "tech": 7,
+            "communication": 2,
+            "cost": 4,
+            "availability": 4,
+            "fit": 9
+        },
+        {
+            "name": "Artur Kustosz",
+            "tech": 8,
+            "communication": 8,
+            "cost": 3,
+            "availability": 6,
+            "fit": 9
+        },
+        {
+            "name": "Liwia Wiza",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 5,
+            "fit": 2
+        },
+        {
+            "name": "Wiktor Bodek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 5,
+            "fit": 1
+        },
+        {
+            "name": "Marika Kolanek",
+            "tech": 7,
+            "communication": 10,
+            "cost": 9,
+            "availability": 10,
+            "fit": 10
+        },
+        {
+            "name": "Kamil Smektała",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 1,
+            "fit": 1
+        },
+        {
+            "name": "Ignacy Trepczyk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 1,
+            "fit": 8
+        },
+        {
+            "name": "Fryderyk Machoń",
+            "tech": 2,
+            "communication": 8,
+            "cost": 9,
+            "availability": 1,
+            "fit": 2
+        },
+        {
+            "name": "Sandra Szóstak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 3,
+            "fit": 10
+        },
+        {
+            "name": "Bruno Olszowa",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 2,
+            "fit": 0
+        },
+        {
+            "name": "Aniela Grygo",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 8,
+            "fit": 4
+        },
+        {
+            "name": "pan Igor Garczarek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 8,
+            "fit": 2
+        },
+        {
+            "name": "Ida Warmuz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 6,
+            "fit": 1
+        },
+        {
+            "name": "Liwia Starek",
+            "tech": 7,
+            "communication": 1,
+            "cost": 9,
+            "availability": 9,
+            "fit": 1
+        },
+        {
+            "name": "Maurycy Kozica",
+            "tech": 7,
+            "communication": 9,
+            "cost": 4,
+            "availability": 2,
+            "fit": 4
+        },
+        {
+            "name": "Adrianna Olko",
+            "tech": 9,
+            "communication": 8,
+            "cost": 3,
+            "availability": 10,
+            "fit": 8
+        },
+        {
+            "name": "Jeremi Warczak",
+            "tech": 7,
+            "communication": 6,
+            "cost": 5,
+            "availability": 1,
+            "fit": 1
+        },
+        {
+            "name": "Lidia Łuczkiewicz",
+            "tech": 7,
+            "communication": 9,
+            "cost": 10,
+            "availability": 0,
+            "fit": 2
+        },
+        {
+            "name": "Kamila Haponiuk",
+            "tech": 4,
+            "communication": 8,
+            "cost": 8,
+            "availability": 1,
+            "fit": 6
+        },
+        {
+            "name": "Maurycy Bobik",
+            "tech": 10,
+            "communication": 3,
+            "cost": 7,
+            "availability": 2,
+            "fit": 3
+        },
+        {
+            "name": "Kacper Dytko",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 9,
+            "fit": 2
+        },
+        {
+            "name": "Monika Jędraszek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 9,
+            "fit": 9
+        },
+        {
+            "name": "Damian Szyguła",
+            "tech": 10,
+            "communication": 9,
+            "cost": 6,
+            "availability": 5,
+            "fit": 0
+        },
+        {
+            "name": "Dorota Kott",
+            "tech": 4,
+            "communication": 6,
+            "cost": 9,
+            "availability": 1,
+            "fit": 8
+        },
+        {
+            "name": "Miłosz Drobnik",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 7,
+            "fit": 8
+        },
+        {
+            "name": "Andrzej Oczko",
+            "tech": 9,
+            "communication": 2,
+            "cost": 5,
+            "availability": 10,
+            "fit": 8
+        },
+        {
+            "name": "Borys Wijata",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 8,
+            "fit": 10
+        },
+        {
+            "name": "Jacek Siergiej",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 1,
+            "fit": 3
+        },
+        {
+            "name": "Urszula Różak",
+            "tech": 7,
+            "communication": 3,
+            "cost": 8,
+            "availability": 6,
+            "fit": 2
+        },
+        {
+            "name": "Olga Brygoła",
+            "tech": 3,
+            "communication": 8,
+            "cost": 3,
+            "availability": 7,
+            "fit": 2
+        },
+        {
+            "name": "Gaja Drążyk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 1,
+            "fit": 1
+        },
+        {
+            "name": "Olga Prażmo",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 7,
+            "fit": 2
+        },
+        {
+            "name": "pan Kacper Lato",
+            "tech": 2,
+            "communication": 8,
+            "cost": 8,
+            "availability": 10,
+            "fit": 4
+        },
+        {
+            "name": "Aniela Lenik",
+            "tech": 1,
+            "communication": 8,
+            "cost": 4,
+            "availability": 3,
+            "fit": 2
+        },
+        {
+            "name": "Oliwier Woda",
+            "tech": 7,
+            "communication": 0,
+            "cost": 4,
+            "availability": 6,
+            "fit": 5
+        },
+        {
+            "name": "Julita Szpara",
+            "tech": 7,
+            "communication": 7,
+            "cost": 3,
+            "availability": 3,
+            "fit": 0
+        },
+        {
+            "name": "Dagmara Wielądek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 1,
+            "fit": 2
+        },
+        {
+            "name": "Tola Tomaszuk",
+            "tech": 7,
+            "communication": 0,
+            "cost": 2,
+            "availability": 1,
+            "fit": 0
+        },
+        {
+            "name": "Tymon Samol",
+            "tech": 2,
+            "communication": 9,
+            "cost": 8,
+            "availability": 10,
+            "fit": 0
+        },
+        {
+            "name": "pan Paweł Makoś",
+            "tech": 7,
+            "communication": 4,
+            "cost": 10,
+            "availability": 7,
+            "fit": 7
+        },
+        {
+            "name": "Jerzy Tryka",
+            "tech": 5,
+            "communication": 8,
+            "cost": 2,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "Angelika Wacław",
+            "tech": 4,
+            "communication": 5,
+            "cost": 10,
+            "availability": 3,
+            "fit": 3
+        },
+        {
+            "name": "pan Borys Gąszczak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 9,
+            "fit": 1
+        },
+        {
+            "name": "Nicole Błaziak",
+            "tech": 7,
+            "communication": 0,
+            "cost": 5,
+            "availability": 1,
+            "fit": 8
+        },
+        {
+            "name": "Dominik Kuder",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 8,
+            "fit": 6
+        },
+        {
+            "name": "Aleksander Małyszek",
+            "tech": 3,
+            "communication": 9,
+            "cost": 2,
+            "availability": 2,
+            "fit": 8
+        },
+        {
+            "name": "Gaja Duc",
+            "tech": 5,
+            "communication": 6,
+            "cost": 5,
+            "availability": 0,
+            "fit": 9
+        },
+        {
+            "name": "pan Fabian Wittbrodt",
+            "tech": 5,
+            "communication": 0,
+            "cost": 5,
+            "availability": 3,
+            "fit": 3
+        },
+        {
+            "name": "Kaja Rajczyk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 1,
+            "fit": 9
+        },
+        {
+            "name": "pani Aurelia Dziurla",
+            "tech": 10,
+            "communication": 2,
+            "cost": 5,
+            "availability": 4,
+            "fit": 7
+        },
+        {
+            "name": "Ida Cuch",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 10,
+            "fit": 3
+        },
+        {
+            "name": "Kamil Pakosz",
+            "tech": 7,
+            "communication": 6,
+            "cost": 8,
+            "availability": 7,
+            "fit": 3
+        },
+        {
+            "name": "pan Bartek Krysta",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 3,
+            "fit": 6
+        },
+        {
+            "name": "Jędrzej Sypek",
+            "tech": 3,
+            "communication": 8,
+            "cost": 9,
+            "availability": 3,
+            "fit": 2
+        },
+        {
+            "name": "Krystian Wyłupek",
+            "tech": 7,
+            "communication": 5,
+            "cost": 3,
+            "availability": 6,
+            "fit": 0
+        },
+        {
+            "name": "Jędrzej Jajko",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 9,
+            "fit": 2
+        },
+        {
+            "name": "Anita Dreszer",
+            "tech": 7,
+            "communication": 10,
+            "cost": 9,
+            "availability": 6,
+            "fit": 4
+        },
+        {
+            "name": "pan Fryderyk Baum",
+            "tech": 7,
+            "communication": 10,
+            "cost": 4,
+            "availability": 10,
+            "fit": 10
+        },
+        {
+            "name": "pani Liwia Domurad",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 6,
+            "fit": 5
+        },
+        {
+            "name": "Juliusz Grzeszkowiak",
+            "tech": 7,
+            "communication": 3,
+            "cost": 10,
+            "availability": 7,
+            "fit": 7
+        },
+        {
+            "name": "Eryk Stanuch",
+            "tech": 7,
+            "communication": 7,
+            "cost": 3,
+            "availability": 8,
+            "fit": 0
+        },
+        {
+            "name": "pani Julianna Achtelik",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 1,
+            "fit": 1
+        },
+        {
+            "name": "Melania Praczyk",
+            "tech": 2,
+            "communication": 3,
+            "cost": 2,
+            "availability": 8,
+            "fit": 6
+        },
+        {
+            "name": "pan Cyprian Dykas",
+            "tech": 7,
+            "communication": 5,
+            "cost": 9,
+            "availability": 4,
+            "fit": 0
+        },
+        {
+            "name": "Olga Banak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 7,
+            "fit": 4
+        },
+        {
+            "name": "pan Ernest Giel",
+            "tech": 9,
+            "communication": 9,
+            "cost": 3,
+            "availability": 7,
+            "fit": 9
+        },
+        {
+            "name": "Blanka Tolak",
+            "tech": 7,
+            "communication": 10,
+            "cost": 2,
+            "availability": 7,
+            "fit": 6
+        },
+        {
+            "name": "pan Leonard Kurz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 10,
+            "fit": 6
+        },
+        {
+            "name": "pani Anastazja Salach",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 1,
+            "fit": 5
+        },
+        {
+            "name": "Borys Skubała",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 6,
+            "fit": 0
+        },
+        {
+            "name": "Sonia Pitura",
+            "tech": 8,
+            "communication": 8,
+            "cost": 10,
+            "availability": 6,
+            "fit": 4
+        },
+        {
+            "name": "Mateusz Holc",
+            "tech": 7,
+            "communication": 0,
+            "cost": 2,
+            "availability": 7,
+            "fit": 9
+        },
+        {
+            "name": "pani Aniela Kopyść",
+            "tech": 7,
+            "communication": 1,
+            "cost": 5,
+            "availability": 5,
+            "fit": 7
+        },
+        {
+            "name": "Anna Maria Gortat",
+            "tech": 6,
+            "communication": 6,
+            "cost": 9,
+            "availability": 4,
+            "fit": 6
+        },
+        {
+            "name": "pani Natasza Posmyk",
+            "tech": 7,
+            "communication": 4,
+            "cost": 6,
+            "availability": 5,
+            "fit": 8
+        },
+        {
+            "name": "Natan Bazela",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 8,
+            "fit": 3
+        },
+        {
+            "name": "pan Fryderyk Pyrkosz",
+            "tech": 10,
+            "communication": 8,
+            "cost": 9,
+            "availability": 7,
+            "fit": 5
+        },
+        {
+            "name": "Bartek Mikiciuk",
+            "tech": 1,
+            "communication": 7,
+            "cost": 5,
+            "availability": 8,
+            "fit": 10
+        },
+        {
+            "name": "Fabian Jankowicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 0,
+            "fit": 10
+        },
+        {
+            "name": "Rozalia Wasiewicz",
+            "tech": 7,
+            "communication": 1,
+            "cost": 10,
+            "availability": 10,
+            "fit": 0
+        },
+        {
+            "name": "pan Robert Hojka",
+            "tech": 7,
+            "communication": 4,
+            "cost": 8,
+            "availability": 1,
+            "fit": 6
+        },
+        {
+            "name": "Urszula Groborz",
+            "tech": 6,
+            "communication": 1,
+            "cost": 4,
+            "availability": 10,
+            "fit": 1
+        },
+        {
+            "name": "pani Julianna Misztela",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 2,
+            "fit": 10
+        },
+        {
+            "name": "Michał Trzepizur",
+            "tech": 7,
+            "communication": 1,
+            "cost": 3,
+            "availability": 8,
+            "fit": 6
+        },
+        {
+            "name": "Marianna Heleniak",
+            "tech": 7,
+            "communication": 7,
+            "cost": 2,
+            "availability": 8,
+            "fit": 9
+        },
+        {
+            "name": "Kornelia Stark",
+            "tech": 2,
+            "communication": 9,
+            "cost": 8,
+            "availability": 7,
+            "fit": 2
+        },
+        {
+            "name": "Adrianna Głownia",
+            "tech": 5,
+            "communication": 8,
+            "cost": 8,
+            "availability": 7,
+            "fit": 9
+        },
+        {
+            "name": "pani Karina Szarejko",
+            "tech": 7,
+            "communication": 1,
+            "cost": 7,
+            "availability": 0,
+            "fit": 8
+        },
+        {
+            "name": "Franciszek Ochnik",
+            "tech": 7,
+            "communication": 6,
+            "cost": 8,
+            "availability": 7,
+            "fit": 4
+        },
+        {
+            "name": "Aniela Stachów",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 2,
+            "fit": 10
+        },
+        {
+            "name": "pan Szymon Duszczak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 6,
+            "fit": 1
+        },
+        {
+            "name": "Daniel Białczyk",
+            "tech": 7,
+            "communication": 7,
+            "cost": 3,
+            "availability": 3,
+            "fit": 3
+        },
+        {
+            "name": "Cezary Malon",
+            "tech": 3,
+            "communication": 8,
+            "cost": 10,
+            "availability": 7,
+            "fit": 3
+        },
+        {
+            "name": "pan Juliusz Różewicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "Kornel Fryś",
+            "tech": 5,
+            "communication": 10,
+            "cost": 8,
+            "availability": 4,
+            "fit": 8
+        },
+        {
+            "name": "Marianna Kozon",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 7,
+            "fit": 7
+        },
+        {
+            "name": "Bruno Nędzi",
+            "tech": 7,
+            "communication": 1,
+            "cost": 3,
+            "availability": 3,
+            "fit": 8
+        },
+        {
+            "name": "Artur Kośka",
+            "tech": 5,
+            "communication": 9,
+            "cost": 7,
+            "availability": 7,
+            "fit": 5
+        },
+        {
+            "name": "Daniel Pacewicz",
+            "tech": 7,
+            "communication": 7,
+            "cost": 5,
+            "availability": 10,
+            "fit": 0
+        },
+        {
+            "name": "Krystian Utrata",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 7,
+            "fit": 4
+        },
+        {
+            "name": "Róża Klinkosz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 9,
+            "fit": 4
+        },
+        {
+            "name": "pani Monika Woroch",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 9,
+            "fit": 9
+        },
+        {
+            "name": "Tymon Bembenek",
+            "tech": 3,
+            "communication": 2,
+            "cost": 3,
+            "availability": 10,
+            "fit": 7
+        },
+        {
+            "name": "pan Kamil Stryjek",
+            "tech": 7,
+            "communication": 7,
+            "cost": 7,
+            "availability": 4,
+            "fit": 4
+        },
+        {
+            "name": "Eryk Kretowicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 0,
+            "fit": 3
+        },
+        {
+            "name": "Kamil Mleczak",
+            "tech": 7,
+            "communication": 2,
+            "cost": 6,
+            "availability": 4,
+            "fit": 2
+        },
+        {
+            "name": "Roksana Ciuruś",
+            "tech": 6,
+            "communication": 8,
+            "cost": 5,
+            "availability": 4,
+            "fit": 6
+        },
+        {
+            "name": "pan Grzegorz Barankiewicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 8,
+            "fit": 0
+        },
+        {
+            "name": "Karol Wałdoch",
+            "tech": 4,
+            "communication": 1,
+            "cost": 3,
+            "availability": 6,
+            "fit": 6
+        },
+        {
+            "name": "pan Olaf Samulak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 0,
+            "fit": 2
+        },
+        {
+            "name": "Józef Ochwat",
+            "tech": 7,
+            "communication": 0,
+            "cost": 2,
+            "availability": 3,
+            "fit": 2
+        },
+        {
+            "name": "Patryk Ograbek",
+            "tech": 9,
+            "communication": 6,
+            "cost": 9,
+            "availability": 6,
+            "fit": 0
+        },
+        {
+            "name": "Krystyna Chomiuk",
+            "tech": 7,
+            "communication": 9,
+            "cost": 2,
+            "availability": 1,
+            "fit": 1
+        },
+        {
+            "name": "Alex Szambelan",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 3,
+            "fit": 6
+        },
+        {
+            "name": "Stefan Krzan",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 3,
+            "fit": 4
+        },
+        {
+            "name": "Sandra Szaruga",
+            "tech": 3,
+            "communication": 2,
+            "cost": 7,
+            "availability": 1,
+            "fit": 10
+        },
+        {
+            "name": "pan Filip Nojek",
+            "tech": 10,
+            "communication": 8,
+            "cost": 5,
+            "availability": 3,
+            "fit": 3
+        },
+        {
+            "name": "Róża Bela",
+            "tech": 7,
+            "communication": 2,
+            "cost": 8,
+            "availability": 3,
+            "fit": 4
+        },
+        {
+            "name": "Wojciech Monkiewicz",
+            "tech": 7,
+            "communication": 1,
+            "cost": 8,
+            "availability": 7,
+            "fit": 6
+        },
+        {
+            "name": "Łukasz Foremniak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 7,
+            "fit": 3
+        },
+        {
+            "name": "Malwina Głowienka",
+            "tech": 0,
+            "communication": 8,
+            "cost": 7,
+            "availability": 6,
+            "fit": 4
+        },
+        {
+            "name": "Marcel Ruszczak",
+            "tech": 6,
+            "communication": 8,
+            "cost": 8,
+            "availability": 1,
+            "fit": 4
+        },
+        {
+            "name": "Stefan Simon",
+            "tech": 7,
+            "communication": 3,
+            "cost": 8,
+            "availability": 6,
+            "fit": 10
+        },
+        {
+            "name": "Olgierd Zapadka",
+            "tech": 7,
+            "communication": 2,
+            "cost": 10,
+            "availability": 5,
+            "fit": 0
+        },
+        {
+            "name": "Janina Huszcza",
+            "tech": 7,
+            "communication": 0,
+            "cost": 2,
+            "availability": 2,
+            "fit": 1
+        },
+        {
+            "name": "Roksana Przewoźniak",
+            "tech": 1,
+            "communication": 9,
+            "cost": 8,
+            "availability": 3,
+            "fit": 6
+        },
+        {
+            "name": "pan Konrad Misiejuk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 7,
+            "fit": 2
+        },
+        {
+            "name": "Bianka Pytlarz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 2,
+            "fit": 0
+        },
+        {
+            "name": "pan Miłosz Szulim",
+            "tech": 1,
+            "communication": 8,
+            "cost": 9,
+            "availability": 2,
+            "fit": 4
+        },
+        {
+            "name": "pani Lidia Szlachcic",
+            "tech": 3,
+            "communication": 7,
+            "cost": 9,
+            "availability": 7,
+            "fit": 0
+        },
+        {
+            "name": "Konrad Ulfik",
+            "tech": 9,
+            "communication": 8,
+            "cost": 6,
+            "availability": 6,
+            "fit": 5
+        },
+        {
+            "name": "Fabian Gramza",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 0,
+            "fit": 7
+        },
+        {
+            "name": "pani Sonia Kij",
+            "tech": 7,
+            "communication": 5,
+            "cost": 7,
+            "availability": 9,
+            "fit": 10
+        },
+        {
+            "name": "Urszula Widuch",
+            "tech": 7,
+            "communication": 5,
+            "cost": 6,
+            "availability": 2,
+            "fit": 7
+        },
+        {
+            "name": "Tadeusz Chuchla",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 5,
+            "fit": 5
+        },
+        {
+            "name": "Jerzy Sabała",
+            "tech": 3,
+            "communication": 10,
+            "cost": 10,
+            "availability": 8,
+            "fit": 4
+        },
+        {
+            "name": "Aurelia Dębosz",
+            "tech": 7,
+            "communication": 7,
+            "cost": 3,
+            "availability": 1,
+            "fit": 6
+        },
+        {
+            "name": "Dagmara Katana",
+            "tech": 6,
+            "communication": 8,
+            "cost": 3,
+            "availability": 4,
+            "fit": 0
+        },
+        {
+            "name": "pan Alan Małycha",
+            "tech": 7,
+            "communication": 6,
+            "cost": 10,
+            "availability": 5,
+            "fit": 8
+        },
+        {
+            "name": "Nikodem Kaletka",
+            "tech": 4,
+            "communication": 8,
+            "cost": 9,
+            "availability": 1,
+            "fit": 2
+        },
+        {
+            "name": "Rafał Pietraś",
+            "tech": 10,
+            "communication": 8,
+            "cost": 9,
+            "availability": 0,
+            "fit": 3
+        },
+        {
+            "name": "pan Krystian Kułach",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 6,
+            "fit": 5
+        },
+        {
+            "name": "Michał Drzał",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 9,
+            "fit": 5
+        },
+        {
+            "name": "pani Nicole Wiraszka",
+            "tech": 10,
+            "communication": 3,
+            "cost": 6,
+            "availability": 10,
+            "fit": 7
+        },
+        {
+            "name": "Justyna Piestrzeniewicz",
+            "tech": 2,
+            "communication": 8,
+            "cost": 2,
+            "availability": 5,
+            "fit": 2
+        },
+        {
+            "name": "pan Nikodem Brząkała",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 2,
+            "fit": 4
+        },
+        {
+            "name": "Grzegorz Walus",
+            "tech": 2,
+            "communication": 8,
+            "cost": 9,
+            "availability": 4,
+            "fit": 10
+        },
+        {
+            "name": "Witold Fyda",
+            "tech": 4,
+            "communication": 8,
+            "cost": 9,
+            "availability": 3,
+            "fit": 9
+        },
+        {
+            "name": "pan Jerzy Kohnke",
+            "tech": 7,
+            "communication": 7,
+            "cost": 6,
+            "availability": 5,
+            "fit": 10
+        },
+        {
+            "name": "pan Mateusz Malesza",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 3,
+            "fit": 7
+        },
+        {
+            "name": "Cyprian Siemieńczuk",
+            "tech": 3,
+            "communication": 8,
+            "cost": 4,
+            "availability": 4,
+            "fit": 8
+        },
+        {
+            "name": "Robert Kaliciak",
+            "tech": 7,
+            "communication": 10,
+            "cost": 7,
+            "availability": 2,
+            "fit": 6
+        },
+        {
+            "name": "Nela Dorobisz",
+            "tech": 9,
+            "communication": 8,
+            "cost": 4,
+            "availability": 8,
+            "fit": 7
+        },
+        {
+            "name": "Ignacy Sypień",
+            "tech": 7,
+            "communication": 3,
+            "cost": 4,
+            "availability": 7,
+            "fit": 8
+        },
+        {
+            "name": "Dawid Schwarz",
+            "tech": 4,
+            "communication": 8,
+            "cost": 8,
+            "availability": 8,
+            "fit": 5
+        },
+        {
+            "name": "pan Franciszek Prostak",
+            "tech": 5,
+            "communication": 0,
+            "cost": 2,
+            "availability": 0,
+            "fit": 9
+        },
+        {
+            "name": "pan Gabriel Łasak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 6,
+            "fit": 10
+        },
+        {
+            "name": "Radosław Ciemięga",
+            "tech": 5,
+            "communication": 9,
+            "cost": 2,
+            "availability": 5,
+            "fit": 4
+        },
+        {
+            "name": "Fabian Kandora",
+            "tech": 3,
+            "communication": 9,
+            "cost": 2,
+            "availability": 8,
+            "fit": 6
+        },
+        {
+            "name": "pani Angelika Pędzik",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 2,
+            "fit": 7
+        },
+        {
+            "name": "Hubert Kapałka",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 6,
+            "fit": 6
+        },
+        {
+            "name": "Karina Kremer",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 4,
+            "fit": 5
+        },
+        {
+            "name": "pani Kornelia Kieloch",
+            "tech": 6,
+            "communication": 1,
+            "cost": 9,
+            "availability": 0,
+            "fit": 3
+        },
+        {
+            "name": "pan Jakub Bielas",
+            "tech": 10,
+            "communication": 8,
+            "cost": 7,
+            "availability": 7,
+            "fit": 3
+        },
+        {
+            "name": "Stefan Juras",
+            "tech": 8,
+            "communication": 3,
+            "cost": 10,
+            "availability": 8,
+            "fit": 6
+        },
+        {
+            "name": "Krystyna Babiuch",
+            "tech": 3,
+            "communication": 8,
+            "cost": 4,
+            "availability": 0,
+            "fit": 5
+        },
+        {
+            "name": "Monika Wajdzik",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 1,
+            "fit": 5
+        },
+        {
+            "name": "Piotr Grygo",
+            "tech": 0,
+            "communication": 8,
+            "cost": 2,
+            "availability": 1,
+            "fit": 4
+        },
+        {
+            "name": "Kacper Danisz",
+            "tech": 7,
+            "communication": 2,
+            "cost": 9,
+            "availability": 1,
+            "fit": 4
+        },
+        {
+            "name": "pani Rozalia Kaczan",
+            "tech": 9,
+            "communication": 8,
+            "cost": 3,
+            "availability": 4,
+            "fit": 3
+        },
+        {
+            "name": "Blanka Basaj",
+            "tech": 7,
+            "communication": 7,
+            "cost": 2,
+            "availability": 2,
+            "fit": 0
+        },
+        {
+            "name": "Sara Kapcia",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 1,
+            "fit": 6
+        },
+        {
+            "name": "pani Inga Delikat",
+            "tech": 4,
+            "communication": 8,
+            "cost": 5,
+            "availability": 6,
+            "fit": 9
+        },
+        {
+            "name": "Witold Gładka",
+            "tech": 5,
+            "communication": 4,
+            "cost": 4,
+            "availability": 6,
+            "fit": 10
+        },
+        {
+            "name": "Bianka Polewka",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 6,
+            "fit": 7
+        },
+        {
+            "name": "pan Fryderyk Pniak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 8,
+            "fit": 5
+        },
+        {
+            "name": "Tymon Rutowicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 5,
+            "fit": 1
+        },
+        {
+            "name": "Maks Pęciak",
+            "tech": 7,
+            "communication": 0,
+            "cost": 6,
+            "availability": 4,
+            "fit": 1
+        },
+        {
+            "name": "Krystyna Chwedoruk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 4,
+            "fit": 10
+        },
+        {
+            "name": "Damian Woda",
+            "tech": 3,
+            "communication": 3,
+            "cost": 2,
+            "availability": 10,
+            "fit": 6
+        },
+        {
+            "name": "Fabian Ufniarz",
+            "tech": 7,
+            "communication": 2,
+            "cost": 7,
+            "availability": 7,
+            "fit": 0
+        },
+        {
+            "name": "pan Krzysztof Białczyk",
+            "tech": 7,
+            "communication": 3,
+            "cost": 7,
+            "availability": 6,
+            "fit": 8
+        },
+        {
+            "name": "Eryk Hudzik",
+            "tech": 3,
+            "communication": 8,
+            "cost": 9,
+            "availability": 4,
+            "fit": 6
+        },
+        {
+            "name": "Apolonia Cebulak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 2,
+            "fit": 2
+        },
+        {
+            "name": "Wojciech Gębura",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 4,
+            "fit": 0
+        },
+        {
+            "name": "Ewa Hołota",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 2,
+            "fit": 1
+        },
+        {
+            "name": "Aniela Kondej",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 7,
+            "fit": 10
+        },
+        {
+            "name": "pani Justyna Andryszczyk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 0,
+            "fit": 3
+        },
+        {
+            "name": "Natan Osman",
+            "tech": 7,
+            "communication": 9,
+            "cost": 10,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "pan Emil Chruszcz",
+            "tech": 8,
+            "communication": 9,
+            "cost": 4,
+            "availability": 1,
+            "fit": 6
+        },
+        {
+            "name": "Ryszard Klisz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 3,
+            "fit": 8
+        },
+        {
+            "name": "pan Witold Tylus",
+            "tech": 1,
+            "communication": 9,
+            "cost": 3,
+            "availability": 10,
+            "fit": 10
+        },
+        {
+            "name": "Ewa Rolek",
+            "tech": 8,
+            "communication": 6,
+            "cost": 7,
+            "availability": 10,
+            "fit": 5
+        },
+        {
+            "name": "Julianna Moroń",
+            "tech": 7,
+            "communication": 9,
+            "cost": 8,
+            "availability": 6,
+            "fit": 2
+        },
+        {
+            "name": "Łukasz Ptok",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 0,
+            "fit": 0
+        },
+        {
+            "name": "Apolonia Pawela",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 4,
+            "fit": 5
+        },
+        {
+            "name": "Jeremi Goss",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 8,
+            "fit": 4
+        },
+        {
+            "name": "pan Arkadiusz Hennig",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 1,
+            "fit": 5
+        },
+        {
+            "name": "Oskar Cabała",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 7,
+            "fit": 3
+        },
+        {
+            "name": "Maciej Wiatrak",
+            "tech": 0,
+            "communication": 10,
+            "cost": 9,
+            "availability": 6,
+            "fit": 9
+        },
+        {
+            "name": "Patryk Fras",
+            "tech": 7,
+            "communication": 5,
+            "cost": 4,
+            "availability": 6,
+            "fit": 7
+        },
+        {
+            "name": "Konrad Wawrzynkiewicz",
+            "tech": 0,
+            "communication": 4,
+            "cost": 9,
+            "availability": 3,
+            "fit": 1
+        },
+        {
+            "name": "Arkadiusz Kroll",
+            "tech": 7,
+            "communication": 5,
+            "cost": 9,
+            "availability": 0,
+            "fit": 4
+        },
+        {
+            "name": "Maurycy Drobik",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 9,
+            "fit": 7
+        },
+        {
+            "name": "pan Fabian Wons",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "Przemysław Cich",
+            "tech": 7,
+            "communication": 10,
+            "cost": 9,
+            "availability": 5,
+            "fit": 4
+        },
+        {
+            "name": "Miłosz Walentynowicz",
+            "tech": 2,
+            "communication": 10,
+            "cost": 7,
+            "availability": 3,
+            "fit": 1
+        },
+        {
+            "name": "Wojciech Cebo",
+            "tech": 6,
+            "communication": 8,
+            "cost": 8,
+            "availability": 10,
+            "fit": 6
+        },
+        {
+            "name": "Aleksander Stupak",
+            "tech": 5,
+            "communication": 6,
+            "cost": 4,
+            "availability": 10,
+            "fit": 9
+        },
+        {
+            "name": "Blanka Szram",
+            "tech": 7,
+            "communication": 1,
+            "cost": 3,
+            "availability": 9,
+            "fit": 8
+        },
+        {
+            "name": "Aniela Chojak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "Olga Grześków",
+            "tech": 7,
+            "communication": 10,
+            "cost": 3,
+            "availability": 7,
+            "fit": 9
+        },
+        {
+            "name": "pan Maksymilian Spólnik",
+            "tech": 1,
+            "communication": 8,
+            "cost": 6,
+            "availability": 1,
+            "fit": 8
+        },
+        {
+            "name": "Witold Miąsik",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 8,
+            "fit": 9
+        },
+        {
+            "name": "Tymoteusz Łodej",
+            "tech": 10,
+            "communication": 2,
+            "cost": 8,
+            "availability": 6,
+            "fit": 4
+        },
+        {
+            "name": "Damian Cieciura",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 9,
+            "fit": 4
+        },
+        {
+            "name": "pani Ada Praczyk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 5,
+            "fit": 1
+        },
+        {
+            "name": "Krystyna Bobak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 7,
+            "fit": 7
+        },
+        {
+            "name": "Borys Grosz",
+            "tech": 3,
+            "communication": 8,
+            "cost": 7,
+            "availability": 9,
+            "fit": 0
+        },
+        {
+            "name": "Anita Ciuba",
+            "tech": 7,
+            "communication": 3,
+            "cost": 6,
+            "availability": 1,
+            "fit": 5
+        },
+        {
+            "name": "Sonia Łokietek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 4,
+            "fit": 6
+        },
+        {
+            "name": "Klara Komisarek",
+            "tech": 7,
+            "communication": 4,
+            "cost": 5,
+            "availability": 3,
+            "fit": 6
+        },
+        {
+            "name": "Kornel Gajzler",
+            "tech": 7,
+            "communication": 1,
+            "cost": 10,
+            "availability": 3,
+            "fit": 3
+        },
+        {
+            "name": "pani Kaja Mikołajewicz",
+            "tech": 2,
+            "communication": 4,
+            "cost": 7,
+            "availability": 3,
+            "fit": 10
+        },
+        {
+            "name": "Nela Wyrwał",
+            "tech": 6,
+            "communication": 0,
+            "cost": 8,
+            "availability": 7,
+            "fit": 2
+        },
+        {
+            "name": "Sebastian Ziemak",
+            "tech": 8,
+            "communication": 5,
+            "cost": 7,
+            "availability": 1,
+            "fit": 0
+        },
+        {
+            "name": "Klara Gasz",
+            "tech": 7,
+            "communication": 5,
+            "cost": 9,
+            "availability": 2,
+            "fit": 6
+        },
+        {
+            "name": "Alex Błaziak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 7,
+            "fit": 7
+        },
+        {
+            "name": "Konstanty Rykała",
+            "tech": 7,
+            "communication": 10,
+            "cost": 9,
+            "availability": 1,
+            "fit": 6
+        },
+        {
+            "name": "Maciej Słyk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 8,
+            "fit": 9
+        },
+        {
+            "name": "Sylwia Franków",
+            "tech": 10,
+            "communication": 6,
+            "cost": 7,
+            "availability": 6,
+            "fit": 2
+        },
+        {
+            "name": "pani Sylwia Babij",
+            "tech": 7,
+            "communication": 1,
+            "cost": 4,
+            "availability": 3,
+            "fit": 4
+        },
+        {
+            "name": "pani Kamila Krzysztoszek",
+            "tech": 0,
+            "communication": 8,
+            "cost": 2,
+            "availability": 7,
+            "fit": 8
+        },
+        {
+            "name": "Andrzej Pospiech",
+            "tech": 7,
+            "communication": 5,
+            "cost": 7,
+            "availability": 2,
+            "fit": 3
+        },
+        {
+            "name": "pan Igor Sobolak",
+            "tech": 7,
+            "communication": 9,
+            "cost": 6,
+            "availability": 7,
+            "fit": 9
+        },
+        {
+            "name": "pani Sonia Sawko",
+            "tech": 4,
+            "communication": 0,
+            "cost": 3,
+            "availability": 5,
+            "fit": 2
+        },
+        {
+            "name": "Oskar Jankowicz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 0,
+            "fit": 0
+        },
+        {
+            "name": "pani Rozalia Dawidek",
+            "tech": 3,
+            "communication": 1,
+            "cost": 2,
+            "availability": 5,
+            "fit": 6
+        },
+        {
+            "name": "pani Tola Rzucidło",
+            "tech": 7,
+            "communication": 5,
+            "cost": 6,
+            "availability": 1,
+            "fit": 6
+        },
+        {
+            "name": "Fabian Fras",
+            "tech": 7,
+            "communication": 10,
+            "cost": 5,
+            "availability": 1,
+            "fit": 9
+        },
+        {
+            "name": "Piotr Nowotka",
+            "tech": 0,
+            "communication": 8,
+            "cost": 5,
+            "availability": 7,
+            "fit": 4
+        },
+        {
+            "name": "Marek Godyń",
+            "tech": 5,
+            "communication": 8,
+            "cost": 3,
+            "availability": 5,
+            "fit": 5
+        },
+        {
+            "name": "Michał Durlik",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 4,
+            "fit": 1
+        },
+        {
+            "name": "Łukasz Cyganik",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 3,
+            "fit": 0
+        },
+        {
+            "name": "pan Ernest Ziarek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 10,
+            "fit": 5
+        },
+        {
+            "name": "Hubert Leoniuk",
+            "tech": 6,
+            "communication": 8,
+            "cost": 4,
+            "availability": 8,
+            "fit": 6
+        },
+        {
+            "name": "pan Igor Bobrowicz",
+            "tech": 7,
+            "communication": 6,
+            "cost": 7,
+            "availability": 10,
+            "fit": 2
+        },
+        {
+            "name": "Kacper Szpala",
+            "tech": 7,
+            "communication": 7,
+            "cost": 2,
+            "availability": 10,
+            "fit": 7
+        },
+        {
+            "name": "pan Jeremi Dąbrówka",
+            "tech": 7,
+            "communication": 10,
+            "cost": 5,
+            "availability": 7,
+            "fit": 6
+        },
+        {
+            "name": "Leon Mućko",
+            "tech": 7,
+            "communication": 6,
+            "cost": 7,
+            "availability": 5,
+            "fit": 10
+        },
+        {
+            "name": "Kamil Słaba",
+            "tech": 7,
+            "communication": 4,
+            "cost": 5,
+            "availability": 8,
+            "fit": 0
+        },
+        {
+            "name": "Adrianna Wejman",
+            "tech": 2,
+            "communication": 8,
+            "cost": 3,
+            "availability": 6,
+            "fit": 0
+        },
+        {
+            "name": "Robert Such",
+            "tech": 7,
+            "communication": 10,
+            "cost": 4,
+            "availability": 9,
+            "fit": 9
+        },
+        {
+            "name": "pan Hubert Paździora",
+            "tech": 8,
+            "communication": 8,
+            "cost": 4,
+            "availability": 4,
+            "fit": 6
+        },
+        {
+            "name": "Anastazja Sosnówka",
+            "tech": 5,
+            "communication": 8,
+            "cost": 5,
+            "availability": 5,
+            "fit": 5
+        },
+        {
+            "name": "Julian Przewłoka",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 8,
+            "fit": 1
+        },
+        {
+            "name": "Blanka Żok",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 6,
+            "fit": 0
+        },
+        {
+            "name": "pani Kalina Gumuła",
+            "tech": 0,
+            "communication": 0,
+            "cost": 5,
+            "availability": 0,
+            "fit": 5
+        },
+        {
+            "name": "Kacper Laskus",
+            "tech": 6,
+            "communication": 8,
+            "cost": 6,
+            "availability": 4,
+            "fit": 0
+        },
+        {
+            "name": "Dariusz Sierżant",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 4,
+            "fit": 2
+        },
+        {
+            "name": "Lidia Tylka",
+            "tech": 7,
+            "communication": 7,
+            "cost": 6,
+            "availability": 3,
+            "fit": 8
+        },
+        {
+            "name": "pani Bianka Klus",
+            "tech": 8,
+            "communication": 3,
+            "cost": 4,
+            "availability": 7,
+            "fit": 6
+        },
+        {
+            "name": "Kornel Szymocha",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 2,
+            "fit": 10
+        },
+        {
+            "name": "Sylwia Kopij",
+            "tech": 7,
+            "communication": 8,
+            "cost": 6,
+            "availability": 4,
+            "fit": 1
+        },
+        {
+            "name": "pan Ernest Leśna",
+            "tech": 7,
+            "communication": 3,
+            "cost": 8,
+            "availability": 8,
+            "fit": 10
+        },
+        {
+            "name": "Blanka Gabara",
+            "tech": 6,
+            "communication": 4,
+            "cost": 6,
+            "availability": 9,
+            "fit": 6
+        },
+        {
+            "name": "pan Olaf Kupidura",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 10,
+            "fit": 0
+        },
+        {
+            "name": "Anastazja Supernak",
+            "tech": 9,
+            "communication": 8,
+            "cost": 7,
+            "availability": 7,
+            "fit": 4
+        },
+        {
+            "name": "pani Dorota Kowalak",
+            "tech": 7,
+            "communication": 0,
+            "cost": 2,
+            "availability": 2,
+            "fit": 10
+        },
+        {
+            "name": "Karol Mila",
+            "tech": 7,
+            "communication": 9,
+            "cost": 6,
+            "availability": 0,
+            "fit": 0
+        },
+        {
+            "name": "pani Marcelina Hubert",
+            "tech": 8,
+            "communication": 8,
+            "cost": 10,
+            "availability": 8,
+            "fit": 1
+        },
+        {
+            "name": "Jakub Haponiuk",
+            "tech": 10,
+            "communication": 8,
+            "cost": 4,
+            "availability": 7,
+            "fit": 9
+        },
+        {
+            "name": "Natan Gogola",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 5,
+            "fit": 10
+        },
+        {
+            "name": "Ewelina Andrzejuk",
+            "tech": 7,
+            "communication": 3,
+            "cost": 8,
+            "availability": 5,
+            "fit": 5
+        },
+        {
+            "name": "Rafał Mostek",
+            "tech": 7,
+            "communication": 7,
+            "cost": 4,
+            "availability": 5,
+            "fit": 10
+        },
+        {
+            "name": "Błażej Tuzimek",
+            "tech": 4,
+            "communication": 8,
+            "cost": 5,
+            "availability": 8,
+            "fit": 0
+        },
+        {
+            "name": "Adam Jany",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 3,
+            "fit": 10
+        },
+        {
+            "name": "Julian Klekot",
+            "tech": 7,
+            "communication": 6,
+            "cost": 8,
+            "availability": 9,
+            "fit": 5
+        },
+        {
+            "name": "Olaf Słowiak",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 6,
+            "fit": 2
+        },
+        {
+            "name": "Dorota Kosela",
+            "tech": 4,
+            "communication": 8,
+            "cost": 5,
+            "availability": 3,
+            "fit": 8
+        },
+        {
+            "name": "Juliusz Wyderka",
+            "tech": 4,
+            "communication": 8,
+            "cost": 7,
+            "availability": 7,
+            "fit": 8
+        },
+        {
+            "name": "Roksana Swaczyna",
+            "tech": 0,
+            "communication": 8,
+            "cost": 5,
+            "availability": 9,
+            "fit": 6
+        },
+        {
+            "name": "Ignacy Niesporek",
+            "tech": 7,
+            "communication": 1,
+            "cost": 3,
+            "availability": 10,
+            "fit": 6
+        },
+        {
+            "name": "Jan Łuksza",
+            "tech": 7,
+            "communication": 2,
+            "cost": 6,
+            "availability": 9,
+            "fit": 4
+        },
+        {
+            "name": "Kamila Zagozda",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 5,
+            "fit": 0
+        },
+        {
+            "name": "Dariusz Goj",
+            "tech": 7,
+            "communication": 8,
+            "cost": 10,
+            "availability": 10,
+            "fit": 9
+        },
+        {
+            "name": "pan Alex Kazana",
+            "tech": 7,
+            "communication": 1,
+            "cost": 7,
+            "availability": 10,
+            "fit": 8
+        },
+        {
+            "name": "pan Damian Watras",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 9,
+            "fit": 6
+        },
+        {
+            "name": "Jerzy Cetera",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 7,
+            "fit": 3
+        },
+        {
+            "name": "pani Natasza Budner",
+            "tech": 10,
+            "communication": 8,
+            "cost": 7,
+            "availability": 10,
+            "fit": 9
+        },
+        {
+            "name": "Sonia Proć",
+            "tech": 5,
+            "communication": 8,
+            "cost": 5,
+            "availability": 6,
+            "fit": 2
+        },
+        {
+            "name": "Jeremi Witos",
+            "tech": 9,
+            "communication": 1,
+            "cost": 2,
+            "availability": 6,
+            "fit": 3
+        },
+        {
+            "name": "Tola Piekart",
+            "tech": 4,
+            "communication": 0,
+            "cost": 6,
+            "availability": 3,
+            "fit": 2
+        },
+        {
+            "name": "Justyna Myszak",
+            "tech": 7,
+            "communication": 7,
+            "cost": 6,
+            "availability": 6,
+            "fit": 9
+        },
+        {
+            "name": "Olaf Otremba",
+            "tech": 0,
+            "communication": 3,
+            "cost": 2,
+            "availability": 6,
+            "fit": 0
+        },
+        {
+            "name": "Witold Ubysz",
+            "tech": 9,
+            "communication": 1,
+            "cost": 3,
+            "availability": 1,
+            "fit": 6
+        },
+        {
+            "name": "Adam Joszko",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 4,
+            "fit": 10
+        },
+        {
+            "name": "pan Hubert Bojczuk",
+            "tech": 4,
+            "communication": 1,
+            "cost": 3,
+            "availability": 5,
+            "fit": 9
+        },
+        {
+            "name": "pani Urszula Ratka",
+            "tech": 7,
+            "communication": 8,
+            "cost": 5,
+            "availability": 9,
+            "fit": 0
+        },
+        {
+            "name": "Tymon Bodek",
+            "tech": 9,
+            "communication": 8,
+            "cost": 3,
+            "availability": 9,
+            "fit": 5
+        },
+        {
+            "name": "Fabian Orkisz",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 4,
+            "fit": 9
+        },
+        {
+            "name": "Hubert Siedlik",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 3,
+            "fit": 10
+        },
+        {
+            "name": "Karol Zuziak",
+            "tech": 7,
+            "communication": 1,
+            "cost": 5,
+            "availability": 10,
+            "fit": 3
+        },
+        {
+            "name": "Mateusz Kudra",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 10,
+            "fit": 6
+        },
+        {
+            "name": "Tomasz Gwizdek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 4,
+            "availability": 8,
+            "fit": 6
+        },
+        {
+            "name": "Kalina Szpyt",
+            "tech": 8,
+            "communication": 3,
+            "cost": 4,
+            "availability": 4,
+            "fit": 4
+        },
+        {
+            "name": "pan Jacek Bednarowicz",
+            "tech": 2,
+            "communication": 4,
+            "cost": 7,
+            "availability": 7,
+            "fit": 5
+        },
+        {
+            "name": "Julianna Krata",
+            "tech": 8,
+            "communication": 7,
+            "cost": 3,
+            "availability": 6,
+            "fit": 0
+        },
+        {
+            "name": "pani Sara Dudko",
+            "tech": 7,
+            "communication": 9,
+            "cost": 2,
+            "availability": 10,
+            "fit": 1
+        },
+        {
+            "name": "Bianka Krzywonos",
+            "tech": 5,
+            "communication": 8,
+            "cost": 2,
+            "availability": 5,
+            "fit": 5
+        },
+        {
+            "name": "Krystian Linkiewicz",
+            "tech": 6,
+            "communication": 8,
+            "cost": 8,
+            "availability": 10,
+            "fit": 1
+        },
+        {
+            "name": "Konrad Krenc",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 2,
+            "fit": 3
+        },
+        {
+            "name": "pani Sonia Piechna",
+            "tech": 9,
+            "communication": 4,
+            "cost": 8,
+            "availability": 10,
+            "fit": 0
+        },
+        {
+            "name": "Kamil Żero",
+            "tech": 7,
+            "communication": 4,
+            "cost": 7,
+            "availability": 2,
+            "fit": 6
+        },
+        {
+            "name": "Przemysław Mostek",
+            "tech": 2,
+            "communication": 0,
+            "cost": 4,
+            "availability": 10,
+            "fit": 2
+        },
+        {
+            "name": "Emil Małyszka",
+            "tech": 9,
+            "communication": 8,
+            "cost": 2,
+            "availability": 3,
+            "fit": 0
+        },
+        {
+            "name": "Aleksander Michalkiewicz",
+            "tech": 7,
+            "communication": 5,
+            "cost": 3,
+            "availability": 7,
+            "fit": 3
+        },
+        {
+            "name": "Julianna Młotek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 3,
+            "availability": 2,
+            "fit": 4
+        },
+        {
+            "name": "pan Fryderyk Bejger",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 4,
+            "fit": 1
+        },
+        {
+            "name": "pani Natasza Rodzeń",
+            "tech": 9,
+            "communication": 8,
+            "cost": 3,
+            "availability": 5,
+            "fit": 1
+        },
+        {
+            "name": "Kazimierz Derek",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 0,
+            "fit": 0
+        },
+        {
+            "name": "Eliza Gapys",
+            "tech": 5,
+            "communication": 3,
+            "cost": 8,
+            "availability": 9,
+            "fit": 6
+        },
+        {
+            "name": "pan Dominik Wdowczyk",
+            "tech": 7,
+            "communication": 8,
+            "cost": 8,
+            "availability": 7,
+            "fit": 8
+        },
+        {
+            "name": "Ada Wota",
+            "tech": 7,
+            "communication": 8,
+            "cost": 9,
+            "availability": 9,
+            "fit": 7
+        },
+        {
+            "name": "Dariusz Szymajda",
+            "tech": 2,
+            "communication": 8,
+            "cost": 3,
+            "availability": 9,
+            "fit": 9
+        },
+        {
+            "name": "Piotr Kasiak",
+            "tech": 1,
+            "communication": 2,
+            "cost": 2,
+            "availability": 7,
+            "fit": 6
+        },
+        {
+            "name": "Alan Wasyluk",
+            "tech": 7,
+            "communication": 7,
+            "cost": 8,
+            "availability": 3,
+            "fit": 0
+        },
+        {
+            "name": "Nataniel Wawrzynek",
+            "tech": 4,
+            "communication": 8,
+            "cost": 10,
+            "availability": 4,
+            "fit": 2
+        },
+        {
+            "name": "pan Juliusz Patora",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 10,
+            "fit": 8
+        },
+        {
+            "name": "Kaja Dorociak",
+            "tech": 7,
+            "communication": 6,
+            "cost": 9,
+            "availability": 2,
+            "fit": 5
+        },
+        {
+            "name": "Filip Nazarko",
+            "tech": 1,
+            "communication": 8,
+            "cost": 8,
+            "availability": 10,
+            "fit": 1
+        },
+        {
+            "name": "Aurelia Szyndler",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 10,
+            "fit": 9
+        },
+        {
+            "name": "Julianna Sierżant",
+            "tech": 7,
+            "communication": 8,
+            "cost": 2,
+            "availability": 0,
+            "fit": 1
+        },
+        {
+            "name": "Justyna Cheba",
+            "tech": 7,
+            "communication": 0,
+            "cost": 6,
+            "availability": 5,
+            "fit": 5
+        },
+        {
+            "name": "Fryderyk Madajczyk",
+            "tech": 10,
+            "communication": 1,
+            "cost": 6,
+            "availability": 1,
+            "fit": 7
+        },
+        {
+            "name": "pan Kazimierz Ekert",
+            "tech": 4,
+            "communication": 4,
+            "cost": 10,
+            "availability": 0,
+            "fit": 1
+        },
+        {
+            "name": "Kamila Czerwionka",
+            "tech": 3,
+            "communication": 8,
+            "cost": 4,
+            "availability": 4,
+            "fit": 10
+        },
+        {
+            "name": "Natasza Ciereszko",
+            "tech": 2,
+            "communication": 10,
+            "cost": 9,
+            "availability": 3,
+            "fit": 0
+        },
+        {
+            "name": "pani Rozalia Suchoń",
+            "tech": 7,
+            "communication": 3,
+            "cost": 2,
+            "availability": 7,
+            "fit": 0
+        },
+        {
+            "name": "Grzegorz Olbrych",
+            "tech": 7,
+            "communication": 8,
+            "cost": 7,
+            "availability": 5,
+            "fit": 0
+        },
+        {
+      "name": "Anna",
+      "tech": 9,
+      "communication": 6,
+      "cost": 7,
+      "availability": 8,
+      "fit": 9
+    },
+    {
+      "name": "Bartek",
+      "tech": 7,
+      "communication": 9,
+      "cost": 5,
+      "availability": 9,
+      "fit": 8
+    },
+    {
+      "name": "Celina",
+      "tech": 8,
+      "communication": 7,
+      "cost": 6,
+      "availability": 6,
+      "fit": 10
+    },
+    {
+      "name": "Dawid",
+      "tech": 6,
+      "communication": 8,
+      "cost": 3,
+      "availability": 10,
+      "fit": 7
+    }
+
+    ],
+    "expert_ranking": [
+    "Celina",
+    "Anna",
+    "Bartek",
+    "Dawid"
+  ]
+}
