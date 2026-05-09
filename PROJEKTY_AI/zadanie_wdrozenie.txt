@@ -1,0 +1,31 @@
+Waszym zadaniem jest przygotowanie strategii wdrożenia AI w firmie POLTECH COMPONENTS S.A.
+
+Firma produkcyjno-handlowa zatrudnia 850 osób i posiada działy: produkcja, jakość, sprzedaż, obsługa klienta, logistyka, zakupy, finanse, HR, IT i zarząd. Firma ma dane w ERP, CRM, dokumentacji technicznej, plikach Excel, bazie reklamacji, raportach jakościowych, mailach i procedurach wewnętrznych.
+
+Firma chce wdrożyć AI, ale nie chce prostego chatbota. Celem jest poprawa efektywności, ograniczenie błędów, szybszy dostęp do wiedzy, lepsze decyzje i bezpieczne wykorzystanie danych.
+
+Przygotujcie strategię wdrożenia AI obejmującą:
+
+1. diagnozę problemów biznesowych,
+2. minimum 3 przypadki użycia AI,
+3. priorytetyzację wdrożeń,
+4. dane potrzebne do wdrożenia,
+5. architekturę AI,
+6. workflow od pomysłu do produkcji,
+7. bezpieczeństwo, RODO i compliance,
+8. human-in-the-loop,
+9. ryzyka i sposoby ograniczenia,
+10. strukturę zespołu wdrożeniowego,
+11. KPI,
+12. roadmapę 0–3, 3–6 i 6–12 miesięcy.
+
+Uwzględnijcie ograniczenia:
+
+- firma ma ograniczony zespół IT,
+- dane są rozproszone,
+- pracownicy obawiają się AI,
+- nie wolno wysyłać danych klientów do publicznych narzędzi bez kontroli,
+- AI nie może samodzielnie podejmować decyzji prawnych, finansowych ani kadrowych,
+- pierwsze efekty powinny być widoczne w ciągu 3 miesięcy.
+
+Na końcu wskażcie, które procesy wymagają podejścia holding-first, czyli takiego, w którym AI najpierw stabilizuje fakty, niepewności, ryzyka i odpowiedzialność, a dopiero potem generuje odpowiedź.
